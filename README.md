@@ -22,3 +22,23 @@ This repository will be updated regularly as I solve more problems.
 ---
 
 Feel free to explore the solutions!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+<!---LeetCode Topics End-->
