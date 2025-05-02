@@ -10,9 +10,9 @@ class Solution:
 
             if r-l+1 > k:
                 count_map[nums[l]] -= 1
+                cur_sum -= nums[l]
                 if count_map[nums[l]] == 0:
                     count_map.pop(nums[l])
-                cur_sum -= nums[l]
                 l += 1
             
             if len(count_map) == k and r-l+1 == k:
