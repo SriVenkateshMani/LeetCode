@@ -3,7 +3,7 @@ class Solution:
         
         res = []
         for candy in candies:
-            max_candy =  max(i for i in candies)
+            max_candy =  max(candies)
             if candy + extraCandies >= max_candy:
                 res.append(True)
             else:
