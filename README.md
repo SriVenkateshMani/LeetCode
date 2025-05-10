@@ -35,6 +35,7 @@ Feel free to explore the solutions!
 | [0890-lemonade-change](https://github.com/SriVenkateshMani/LeetCode/tree/master/0890-lemonade-change) |
 | [1310-watering-plants](https://github.com/SriVenkateshMani/LeetCode/tree/master/1310-watering-plants) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SriVenkateshMani/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/SriVenkateshMani/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
@@ -73,6 +74,7 @@ Feel free to explore the solutions!
 | ------- |
 | [0011-container-with-most-water](https://github.com/SriVenkateshMani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0890-lemonade-change](https://github.com/SriVenkateshMani/LeetCode/tree/master/0890-lemonade-change) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/SriVenkateshMani/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Simulation
 |  |
 | ------- |
