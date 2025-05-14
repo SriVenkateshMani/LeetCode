@@ -29,6 +29,7 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SriVenkateshMani/LeetCode/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SriVenkateshMani/LeetCode/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0455-assign-cookies](https://github.com/SriVenkateshMani/LeetCode/tree/master/0455-assign-cookies) |
@@ -50,6 +51,7 @@ Feel free to explore the solutions!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
