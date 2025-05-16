@@ -130,4 +130,12 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SriVenkateshMani/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
