@@ -156,6 +156,7 @@ Feel free to explore the solutions!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -167,15 +168,21 @@ Feel free to explore the solutions!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0226-invert-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
