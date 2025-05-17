@@ -127,6 +127,7 @@ Feel free to explore the solutions!
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/SriVenkateshMani/LeetCode/tree/master/0066-plus-one) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Heap (Priority Queue)
