@@ -35,6 +35,7 @@ Feel free to explore the solutions!
 | [0455-assign-cookies](https://github.com/SriVenkateshMani/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SriVenkateshMani/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
+| [0682-baseball-game](https://github.com/SriVenkateshMani/LeetCode/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/SriVenkateshMani/LeetCode/tree/master/0890-lemonade-change) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/SriVenkateshMani/LeetCode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
@@ -111,6 +112,7 @@ Feel free to explore the solutions!
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/SriVenkateshMani/LeetCode/tree/master/0682-baseball-game) |
 | [1310-watering-plants](https://github.com/SriVenkateshMani/LeetCode/tree/master/1310-watering-plants) |
 ## Sorting
 |  |
@@ -188,6 +190,7 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0682-baseball-game](https://github.com/SriVenkateshMani/LeetCode/tree/master/0682-baseball-game) |
 ## Memoization
 |  |
 | ------- |
