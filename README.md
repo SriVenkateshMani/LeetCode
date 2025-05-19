@@ -43,6 +43,7 @@ Feel free to explore the solutions!
 | [1310-watering-plants](https://github.com/SriVenkateshMani/LeetCode/tree/master/1310-watering-plants) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SriVenkateshMani/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1552-build-an-array-with-stack-operations](https://github.com/SriVenkateshMani/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SriVenkateshMani/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/SriVenkateshMani/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SriVenkateshMani/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -115,6 +116,7 @@ Feel free to explore the solutions!
 | ------- |
 | [0682-baseball-game](https://github.com/SriVenkateshMani/LeetCode/tree/master/0682-baseball-game) |
 | [1310-watering-plants](https://github.com/SriVenkateshMani/LeetCode/tree/master/1310-watering-plants) |
+| [1552-build-an-array-with-stack-operations](https://github.com/SriVenkateshMani/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Feel free to explore the solutions!
 | [0094-binary-tree-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/SriVenkateshMani/LeetCode/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1552-build-an-array-with-stack-operations](https://github.com/SriVenkateshMani/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Memoization
 |  |
 | ------- |
