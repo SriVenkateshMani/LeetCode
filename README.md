@@ -85,6 +85,7 @@ Feel free to explore the solutions!
 | [1341-split-a-string-in-balanced-strings](https://github.com/SriVenkateshMani/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3447-clear-digits](https://github.com/SriVenkateshMani/LeetCode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Feel free to explore the solutions!
 | [0682-baseball-game](https://github.com/SriVenkateshMani/LeetCode/tree/master/0682-baseball-game) |
 | [1310-watering-plants](https://github.com/SriVenkateshMani/LeetCode/tree/master/1310-watering-plants) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SriVenkateshMani/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [3447-clear-digits](https://github.com/SriVenkateshMani/LeetCode/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Feel free to explore the solutions!
 | [0682-baseball-game](https://github.com/SriVenkateshMani/LeetCode/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SriVenkateshMani/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [3447-clear-digits](https://github.com/SriVenkateshMani/LeetCode/tree/master/3447-clear-digits) |
 ## Memoization
 |  |
 | ------- |
