@@ -84,11 +84,13 @@ Feel free to explore the solutions!
 | [0073-set-matrix-zeroes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/SriVenkateshMani/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
+| [0246-strobogrammatic-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SriVenkateshMani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0246-strobogrammatic-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SriVenkateshMani/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -106,6 +108,7 @@ Feel free to explore the solutions!
 | ------- |
 | [0011-container-with-most-water](https://github.com/SriVenkateshMani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/SriVenkateshMani/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0246-strobogrammatic-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0455-assign-cookies](https://github.com/SriVenkateshMani/LeetCode/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/SriVenkateshMani/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/0908-middle-of-the-linked-list) |
