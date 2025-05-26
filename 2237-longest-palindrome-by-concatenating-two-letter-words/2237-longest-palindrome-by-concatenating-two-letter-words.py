@@ -5,7 +5,6 @@ class Solution:
         used_center = False
         visited = set()
 
-        # Step 1: Count frequencies
         for word in words:
             count_map[word] = count_map.get(word, 0) + 1
 
@@ -18,6 +17,7 @@ class Solution:
                 if not used_center and count_map[word] % 2 == 1:
                     pairs += 1  # center piece
                     used_center = True
+                    
             elif rev in count_map and word not in visited and rev not in visited:
                 pairs += min(count_map[word], count_map[rev]) * 2
                 visited.add(word)
