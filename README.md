@@ -39,6 +39,7 @@ Feel free to explore the solutions!
 | [0487-max-consecutive-ones-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0500-keyboard-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/SriVenkateshMani/LeetCode/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/SriVenkateshMani/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/SriVenkateshMani/LeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/SriVenkateshMani/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/0898-transpose-matrix) |
@@ -67,6 +68,7 @@ Feel free to explore the solutions!
 | ------- |
 | [0035-search-insert-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0792-binary-search](https://github.com/SriVenkateshMani/LeetCode/tree/master/0792-binary-search) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 ## Sliding Window
 |  |
