@@ -87,6 +87,7 @@ Feel free to explore the solutions!
 | [0141-linked-list-cycle](https://github.com/SriVenkateshMani/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
 | [0246-strobogrammatic-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/0246-strobogrammatic-number) |
+| [0299-bulls-and-cows](https://github.com/SriVenkateshMani/LeetCode/tree/master/0299-bulls-and-cows) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SriVenkateshMani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
@@ -94,6 +95,7 @@ Feel free to explore the solutions!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SriVenkateshMani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0246-strobogrammatic-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/0246-strobogrammatic-number) |
+| [0299-bulls-and-cows](https://github.com/SriVenkateshMani/LeetCode/tree/master/0299-bulls-and-cows) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SriVenkateshMani/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -157,6 +159,7 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/SriVenkateshMani/LeetCode/tree/master/0299-bulls-and-cows) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SriVenkateshMani/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SriVenkateshMani/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SriVenkateshMani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
