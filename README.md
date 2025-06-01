@@ -104,6 +104,7 @@ Feel free to explore the solutions!
 | [0246-strobogrammatic-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0299-bulls-and-cows](https://github.com/SriVenkateshMani/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0500-keyboard-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0500-keyboard-row) |
+| [1078-remove-outermost-parentheses](https://github.com/SriVenkateshMani/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SriVenkateshMani/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -241,6 +242,7 @@ Feel free to explore the solutions!
 | [0094-binary-tree-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/SriVenkateshMani/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/SriVenkateshMani/LeetCode/tree/master/0682-baseball-game) |
+| [1078-remove-outermost-parentheses](https://github.com/SriVenkateshMani/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SriVenkateshMani/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/SriVenkateshMani/LeetCode/tree/master/1720-crawler-log-folder) |
