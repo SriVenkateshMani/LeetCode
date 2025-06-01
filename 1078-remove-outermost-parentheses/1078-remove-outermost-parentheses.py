@@ -1,6 +1,6 @@
 class Solution:
     def removeOuterParentheses(self, s: str) -> str:
-        stack = []
+        res = []
         l, r = 0, 0
         o, c = 0, 0
 
@@ -11,8 +11,8 @@ class Solution:
                 c += 1
             
             if o == c and o != 0:
-                stack.append(s[l+1 : r])
+                res.append(s[l+1 : r])
                 l = r + 1
             r += 1
         
-        return "".join(stack)
+        return "".join(res)
