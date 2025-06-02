@@ -104,6 +104,7 @@ Feel free to explore the solutions!
 | [0246-strobogrammatic-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0299-bulls-and-cows](https://github.com/SriVenkateshMani/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0500-keyboard-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0500-keyboard-row) |
+| [0649-dota2-senate](https://github.com/SriVenkateshMani/LeetCode/tree/master/0649-dota2-senate) |
 | [1078-remove-outermost-parentheses](https://github.com/SriVenkateshMani/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SriVenkateshMani/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -134,6 +135,7 @@ Feel free to explore the solutions!
 | ------- |
 | [0011-container-with-most-water](https://github.com/SriVenkateshMani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/SriVenkateshMani/LeetCode/tree/master/0455-assign-cookies) |
+| [0649-dota2-senate](https://github.com/SriVenkateshMani/LeetCode/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/SriVenkateshMani/LeetCode/tree/master/0890-lemonade-change) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/SriVenkateshMani/LeetCode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -274,4 +276,5 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/SriVenkateshMani/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/SriVenkateshMani/LeetCode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
