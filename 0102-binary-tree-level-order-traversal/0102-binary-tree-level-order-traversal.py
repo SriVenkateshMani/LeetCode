@@ -10,6 +10,8 @@ class Solution:
         q = deque()
         if root:
             q.append(root)
+        #BFS implementation:
+
         while q:
             level = []
             for i in range(len(q)):
@@ -23,3 +25,5 @@ class Solution:
                 res.append(level)
         
         return res
+
+                
