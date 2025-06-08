@@ -11,14 +11,10 @@ class Solution:
             if loser in zero_loss:
                 zero_loss.remove(loser)
                 one_loss.add(loser)
-            
             elif loser in one_loss:
                 one_loss.remove(loser)
                 more_loss.add(loser)
-            
-            elif loser in more_loss:
-                continue
-            else:
+            elif loser not in more_loss:
                 one_loss.add(loser)
         
         return [sorted(list(zero_loss)), sorted(list(one_loss))]
