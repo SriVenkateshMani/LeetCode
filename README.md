@@ -41,6 +41,7 @@ Feel free to explore the solutions!
 | [0487-max-consecutive-ones-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0500-keyboard-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/SriVenkateshMani/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/SriVenkateshMani/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/SriVenkateshMani/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/SriVenkateshMani/LeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/SriVenkateshMani/LeetCode/tree/master/0890-lemonade-change) |
@@ -262,6 +263,7 @@ Feel free to explore the solutions!
 | [0094-binary-tree-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/SriVenkateshMani/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/SriVenkateshMani/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/SriVenkateshMani/LeetCode/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/SriVenkateshMani/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SriVenkateshMani/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -296,4 +298,8 @@ Feel free to explore the solutions!
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/SriVenkateshMani/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/SriVenkateshMani/LeetCode/tree/master/0649-dota2-senate) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/SriVenkateshMani/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
