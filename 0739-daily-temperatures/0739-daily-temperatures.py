@@ -3,10 +3,10 @@ class Solution:
         stack = []
         res = [0] * len(temperatures)
         for i , t in enumerate(temperatures):
-            while stack and stack[-1][0] < t:
-                stack_tem, stack_idx = stack.pop()
+            while stack and stack[-1][1] < t:
+                stack_idx, stack_tem = stack.pop()
                 res[stack_idx] = i - stack_idx
-            stack.append([t,i])
+            stack.append([i,t])
         
         return res
 
