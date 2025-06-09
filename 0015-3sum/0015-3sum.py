@@ -20,7 +20,6 @@ class Solution:
                     l += 1
                 else:
                     res.append([j, nums[l], nums[r]])
-                
                     l += 1
 
                     while nums[l] == nums[l-1] and l < r:
