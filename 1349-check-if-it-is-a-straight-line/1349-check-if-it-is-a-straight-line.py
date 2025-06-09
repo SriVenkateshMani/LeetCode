@@ -1,19 +1,18 @@
 class Solution:
     def checkStraightLine(self, coordinates: List[List[int]]) -> bool:
-        res = set()
-        for i in range(len(coordinates) - 1):
-            dx = coordinates[i+1][0] - coordinates[i][0]
+        slopes = set()
+        for i in range(len(coordinates)-1):
             dy = coordinates[i+1][1] - coordinates[i][1]
+            dx = coordinates[i+1][0] - coordinates[i][0]
+            
             if dx == 0:
-                slope = float('inf')  # vertical line
+                slope = float('inf')
             else:
                 slope = dy / dx
-            res.add(slope)
-        
-        if len(res) != 1:
-            return False
-        
-        return True
+            
+            slopes.add(slope)
+
+        return len(slopes) == 1
 
 
 
