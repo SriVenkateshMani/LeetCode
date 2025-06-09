@@ -28,6 +28,7 @@ Feel free to explore the solutions!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SriVenkateshMani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/SriVenkateshMani/LeetCode/tree/master/0056-merge-intervals) |
@@ -90,6 +91,7 @@ Feel free to explore the solutions!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SriVenkateshMani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SriVenkateshMani/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0073-set-matrix-zeroes) |
