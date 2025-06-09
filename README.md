@@ -30,6 +30,7 @@ Feel free to explore the solutions!
 | ------- |
 | [0001-two-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SriVenkateshMani/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/SriVenkateshMani/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/SriVenkateshMani/LeetCode/tree/master/0066-plus-one) |
@@ -134,6 +135,7 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SriVenkateshMani/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/SriVenkateshMani/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SriVenkateshMani/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SriVenkateshMani/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -171,6 +173,7 @@ Feel free to explore the solutions!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/SriVenkateshMani/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/SriVenkateshMani/LeetCode/tree/master/0455-assign-cookies) |
