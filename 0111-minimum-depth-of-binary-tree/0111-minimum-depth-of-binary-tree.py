@@ -6,17 +6,23 @@
 #         self.right = right
 class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
-
-        def dfs(root):
-            if not root:
-                return 0
+        q = deque()
+        res = 0
+        if root:
+            q.append(root)
             
-            if not root.left:
-                return 1 + dfs(root.right)
-            elif not root.right:
-                return 1 + dfs(root.left)
-            
-            return 1 + min(dfs(root.left), dfs(root.right))
         
-        return dfs(root)
+        while q:
+            res += 1
+            for _ in range(len(q)):
+                curr = q.popleft()
+
+                if not curr.left and not curr.right:
+                    return res
+                if curr.left:
+                    q.append(curr.left)
+                if curr.right:
+                    q.append(curr.right)
             
+
+        return res
