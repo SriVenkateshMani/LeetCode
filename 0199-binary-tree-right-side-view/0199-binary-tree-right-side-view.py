@@ -14,12 +14,12 @@ class Solution:
         while q:
             level_size = len(q)
             for i in range(level_size):
-                curr = q.popleft()
-                if i == level_size - 1:
-                    res.append(curr.val)
-                if curr.left:
-                    q.append(curr.left)
-                if curr.right:
-                    q.append(curr.right)
+                node = q.popleft()
+                if i == level_size-1:
+                    res.append(node.val)
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
         return res
 
