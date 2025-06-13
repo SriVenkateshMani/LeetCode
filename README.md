@@ -33,6 +33,7 @@ Feel free to explore the solutions!
 | [0015-3sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/SriVenkateshMani/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SriVenkateshMani/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/SriVenkateshMani/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -101,6 +102,7 @@ Feel free to explore the solutions!
 | [0001-two-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SriVenkateshMani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SriVenkateshMani/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/SriVenkateshMani/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/SriVenkateshMani/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
@@ -115,6 +117,7 @@ Feel free to explore the solutions!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SriVenkateshMani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SriVenkateshMani/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/SriVenkateshMani/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SriVenkateshMani/LeetCode/tree/master/0125-valid-palindrome) |
 | [0246-strobogrammatic-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0299-bulls-and-cows](https://github.com/SriVenkateshMani/LeetCode/tree/master/0299-bulls-and-cows) |
@@ -180,6 +183,7 @@ Feel free to explore the solutions!
 | ------- |
 | [0015-3sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/SriVenkateshMani/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SriVenkateshMani/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/SriVenkateshMani/LeetCode/tree/master/0455-assign-cookies) |
