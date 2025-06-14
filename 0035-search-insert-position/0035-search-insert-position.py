@@ -14,3 +14,5 @@ class Solution:
                 l = mp + 1
             else:
                 r = mp - 1
+        
+        return -1
