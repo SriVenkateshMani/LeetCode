@@ -10,16 +10,17 @@ class Solution:
 
         #Lets do BFS
         q = deque()
-
         if root:
             q.append(root)
+
         while q:
-            for _ in range(len(q)):
-                curr = q.popleft()
-                if curr.left:
-                    q.append(curr.left)
-                if curr.right:
-                    q.append(curr.right)
+            n = len(q)
+            for _ in range(n):
+                node = q.popleft()
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
 
             res += 1
         return res
