@@ -119,6 +119,7 @@ Feel free to explore the solutions!
 | [0003-longest-substring-without-repeating-characters](https://github.com/SriVenkateshMani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SriVenkateshMani/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/SriVenkateshMani/LeetCode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/SriVenkateshMani/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SriVenkateshMani/LeetCode/tree/master/0125-valid-palindrome) |
 | [0246-strobogrammatic-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0299-bulls-and-cows](https://github.com/SriVenkateshMani/LeetCode/tree/master/0299-bulls-and-cows) |
