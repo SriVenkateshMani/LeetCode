@@ -7,8 +7,6 @@ class Solution:
                 return [count_map[diff], i]
             
             count_map[j] = i
-        
-        return
 
 
             
