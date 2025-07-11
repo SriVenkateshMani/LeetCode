@@ -60,6 +60,7 @@ Feel free to explore the solutions!
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SriVenkateshMani/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SriVenkateshMani/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SriVenkateshMani/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SriVenkateshMani/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1677-matrix-diagonal-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -113,6 +114,7 @@ Feel free to explore the solutions!
 | [0299-bulls-and-cows](https://github.com/SriVenkateshMani/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0500-keyboard-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0500-keyboard-row) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SriVenkateshMani/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SriVenkateshMani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
@@ -211,6 +213,7 @@ Feel free to explore the solutions!
 | [0299-bulls-and-cows](https://github.com/SriVenkateshMani/LeetCode/tree/master/0299-bulls-and-cows) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SriVenkateshMani/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SriVenkateshMani/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SriVenkateshMani/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SriVenkateshMani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Math
