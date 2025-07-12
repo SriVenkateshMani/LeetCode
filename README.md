@@ -42,6 +42,7 @@ Feel free to explore the solutions!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SriVenkateshMani/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SriVenkateshMani/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SriVenkateshMani/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
@@ -160,6 +161,7 @@ Feel free to explore the solutions!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SriVenkateshMani/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0246-strobogrammatic-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/0246-strobogrammatic-number) |
+| [0283-move-zeroes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SriVenkateshMani/LeetCode/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/SriVenkateshMani/LeetCode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/SriVenkateshMani/LeetCode/tree/master/0874-backspace-string-compare) |
