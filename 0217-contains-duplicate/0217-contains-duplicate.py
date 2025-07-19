@@ -4,4 +4,4 @@ class Solution:
         for i in nums:
             res_set.add(i)
         
-        return False if len(res_set) == len(nums) else True
+        return len(res_set) != len(nums) 
