@@ -9,4 +9,3 @@ class Solution:
                 res[-1] = [res[-1][0], max(res[-1][1], i[1])]
         
         return res
-
