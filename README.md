@@ -43,6 +43,7 @@ Feel free to explore the solutions!
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/SriVenkateshMani/LeetCode/tree/master/0217-contains-duplicate) |
+| [0252-meeting-rooms](https://github.com/SriVenkateshMani/LeetCode/tree/master/0252-meeting-rooms) |
 | [0283-move-zeroes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SriVenkateshMani/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SriVenkateshMani/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -212,6 +213,7 @@ Feel free to explore the solutions!
 | [0056-merge-intervals](https://github.com/SriVenkateshMani/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SriVenkateshMani/LeetCode/tree/master/0217-contains-duplicate) |
+| [0252-meeting-rooms](https://github.com/SriVenkateshMani/LeetCode/tree/master/0252-meeting-rooms) |
 | [0455-assign-cookies](https://github.com/SriVenkateshMani/LeetCode/tree/master/0455-assign-cookies) |
 | [1098-largest-unique-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1098-largest-unique-number) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/SriVenkateshMani/LeetCode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
