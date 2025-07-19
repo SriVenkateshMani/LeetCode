@@ -5,16 +5,5 @@ class Solution:
             diff = target - j
             if diff in count_map:
                 return [count_map[diff], i]
-            
-            count_map[j] = i
-
-
-            
-
-
-        
-
-
-                
-            
-        
+            else:
+                count_map[j] = i
