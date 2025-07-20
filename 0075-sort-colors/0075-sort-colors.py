@@ -3,5 +3,13 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        nums.sort()
+        counts = [0,0,0]
+        for i in nums:
+            counts[i] += 1
+        
+        r,w,b = counts
+        nums[:r] = [0] * r
+        nums[r:r+w] = [1] * w
+        nums[r+w:] = [2] * b
+
         return nums
