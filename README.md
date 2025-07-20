@@ -38,6 +38,7 @@ Feel free to explore the solutions!
 | [0066-plus-one](https://github.com/SriVenkateshMani/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriVenkateshMani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/SriVenkateshMani/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SriVenkateshMani/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
@@ -116,6 +117,7 @@ Feel free to explore the solutions!
 | [0013-roman-to-integer](https://github.com/SriVenkateshMani/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/SriVenkateshMani/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/SriVenkateshMani/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SriVenkateshMani/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SriVenkateshMani/LeetCode/tree/master/0217-contains-duplicate) |
@@ -400,4 +402,8 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SriVenkateshMani/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SriVenkateshMani/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
