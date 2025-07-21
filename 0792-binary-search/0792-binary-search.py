@@ -1,15 +1,16 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        return self.helper(nums, target, 0, len(nums) - 1)
+        l = 0
+        u = len(nums) - 1
 
-    def helper(self, nums: List[int], target: int, L: int, R: int) -> int:
-        if L > R:
-            return -1
-        
-        m = (L + R) // 2
-        if nums[m] == target:
-            return m
-        elif nums[m] < target:
-            return self.helper(nums, target, m + 1, R)
-        else:
-            return self.helper(nums, target, L, m - 1)
+        while l <= u:
+            mp = (l+u) // 2
+            if nums[mp] == target:
+                return mp
+            
+            elif nums[mp] < target:
+                l = mp + 1
+            else:
+                u = mp - 1
+
+        return - 1
