@@ -9,6 +9,8 @@ class Solution:
         while l <= r:
             if cleaned[l] != cleaned[r]:
                 return False
+            
             l += 1
             r -= 1
+        
         return True
