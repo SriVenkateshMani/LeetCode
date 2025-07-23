@@ -5,22 +5,23 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:  
         res = []
         q = deque()
         if root:
             q.append(root)
-        #BFS implementation:
-
+        
         while q:
             level = []
-            for i in range(len(q)):
+            for _ in range(len(q)):
                 curr = q.popleft()
                 level.append(curr.val)
+
                 if curr.left:
                     q.append(curr.left)
                 if curr.right:
                     q.append(curr.right)
+            
             if level:
                 res.append(level)
         
