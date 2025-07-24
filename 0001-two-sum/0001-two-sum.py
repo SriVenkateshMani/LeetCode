@@ -4,6 +4,6 @@ class Solution:
         for i, j in enumerate(nums):
             diff = target - j
             if diff in count_map:
-                return [count_map[diff], i]
+                return [i, count_map[diff]]
             else:
                 count_map[j] = i
