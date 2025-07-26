@@ -47,6 +47,7 @@ Feel free to explore the solutions!
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SriVenkateshMani/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SriVenkateshMani/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/SriVenkateshMani/LeetCode/tree/master/0252-meeting-rooms) |
@@ -234,6 +235,7 @@ Feel free to explore the solutions!
 | [0056-merge-intervals](https://github.com/SriVenkateshMani/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SriVenkateshMani/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SriVenkateshMani/LeetCode/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/SriVenkateshMani/LeetCode/tree/master/0252-meeting-rooms) |
 | [0455-assign-cookies](https://github.com/SriVenkateshMani/LeetCode/tree/master/0455-assign-cookies) |
@@ -273,6 +275,7 @@ Feel free to explore the solutions!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SriVenkateshMani/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Linked List
 |  |
@@ -403,6 +406,7 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Design
 |  |
 | ------- |
@@ -424,4 +428,8 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SriVenkateshMani/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
