@@ -3,11 +3,12 @@ class Solution:
         storedset = set()
         res = 0
         l = 0
-        for r in range(len(s)):
+        r = 0
+        while r < len(s):
             while s[r] in storedset:
                 storedset.remove(s[l])
                 l += 1
             storedset.add(s[r])
             res = max(res, r-l+1)
-        
+            r += 1
         return res
