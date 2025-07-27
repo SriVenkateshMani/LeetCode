@@ -7,6 +7,7 @@ class Solution:
             hash_map = defaultdict(int)
 
             while j < len(nums):
+                
                 hash_map[nums[j]] += 1
 
                 if len(hash_map) <= k:
@@ -20,7 +21,7 @@ class Solution:
                         i += 1
 
                     if len(hash_map) <= k:
-                        res += j-i+1
+                            res += j-i+1
                    
                 j += 1
 
