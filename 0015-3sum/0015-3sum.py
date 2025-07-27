@@ -3,10 +3,12 @@ class Solution:
         res = []
         nums.sort()
 
-        for i in range(len(nums)):
+        i = 0
+        while i < len(nums):
             if i > 0 and nums[i] == nums[i-1]:
-                continue
-        
+                i += 1
+                continue 
+
             l, r = i+1, len(nums)-1
 
             while l < r:
@@ -22,5 +24,7 @@ class Solution:
                     
                     while nums[l] == nums[l-1] and l < r:
                         l += 1
-        
+
+            i += 1
+            
         return res
