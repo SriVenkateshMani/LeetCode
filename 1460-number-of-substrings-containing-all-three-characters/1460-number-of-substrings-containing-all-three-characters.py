@@ -8,7 +8,7 @@ class Solution:
         while j < len(s):
             count_map[s[j]] += 1
 
-            while (i <= j and len(count_map) >= 3):
+            while (i <= j and len(count_map) == 3):
                 res += len(s)-j
                 count_map[s[i]] -= 1
                 if count_map[s[i]] == 0:
