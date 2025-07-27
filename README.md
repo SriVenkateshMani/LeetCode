@@ -113,6 +113,7 @@ Feel free to explore the solutions!
 | [0643-maximum-average-subarray-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1280-diet-plan-performance](https://github.com/SriVenkateshMani/LeetCode/tree/master/1280-diet-plan-performance) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SriVenkateshMani/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
@@ -140,6 +141,7 @@ Feel free to explore the solutions!
 | [0500-keyboard-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0500-keyboard-row) |
 | [1098-largest-unique-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SriVenkateshMani/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SriVenkateshMani/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SriVenkateshMani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -163,6 +165,7 @@ Feel free to explore the solutions!
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SriVenkateshMani/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SriVenkateshMani/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1720-crawler-log-folder](https://github.com/SriVenkateshMani/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SriVenkateshMani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
