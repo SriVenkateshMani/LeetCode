@@ -8,7 +8,7 @@ class Solution:
             prod *= nums[j]
             
             while prod >= k and i <= j:
-                prod = prod // nums[i]
+                prod //= nums[i]
                 i += 1
 
             res += (j-i+1)
