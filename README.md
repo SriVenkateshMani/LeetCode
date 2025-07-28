@@ -385,6 +385,7 @@ Feel free to explore the solutions!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -398,6 +399,7 @@ Feel free to explore the solutions!
 | [0226-invert-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Stack
 |  |
 | ------- |
@@ -458,6 +460,7 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SriVenkateshMani/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [2121-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Quickselect
 |  |
 | ------- |
@@ -467,4 +470,8 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SriVenkateshMani/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
