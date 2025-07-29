@@ -9,5 +9,5 @@ class Solution:
             elif nums[m] < nums[r]:
                 r = m
             
-            return nums[l]
+        return nums[l]
             
