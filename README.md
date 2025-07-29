@@ -341,6 +341,7 @@ Feel free to explore the solutions!
 | [0110-balanced-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SriVenkateshMani/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SriVenkateshMani/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -366,6 +367,7 @@ Feel free to explore the solutions!
 | [0110-balanced-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SriVenkateshMani/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SriVenkateshMani/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -382,6 +384,7 @@ Feel free to explore the solutions!
 | [0110-balanced-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SriVenkateshMani/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SriVenkateshMani/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -410,6 +413,7 @@ Feel free to explore the solutions!
 | ------- |
 | [0020-valid-parentheses](https://github.com/SriVenkateshMani/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/SriVenkateshMani/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/SriVenkateshMani/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/0234-palindrome-linked-list) |
