@@ -12,9 +12,9 @@ class Solution:
             nonlocal balanced
             if not root:
                 return 0
-
-            left = height(root.left)
-            right = height(root.right)
+            else:
+                left = height(root.left)
+                right = height(root.right)
 
             if abs(left-right) > 1:
                 balanced = False
