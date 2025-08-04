@@ -362,6 +362,7 @@ Feel free to explore the solutions!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SriVenkateshMani/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -392,6 +393,7 @@ Feel free to explore the solutions!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SriVenkateshMani/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -414,6 +416,7 @@ Feel free to explore the solutions!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SriVenkateshMani/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -432,6 +435,7 @@ Feel free to explore the solutions!
 | [0200-number-of-islands](https://github.com/SriVenkateshMani/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
