@@ -11,13 +11,15 @@ class Solution:
             q.append(root)
     
         while len(q) > 0:
-            for _ in range(len(q)):
+            for i in range(len(q)):
                 curr = q.popleft()
-                if curr.right:
-                    q.append(curr.right)
+                if i == 0:
+                    leftmost = curr.val
                 if curr.left:
                     q.append(curr.left)
+                if curr.right:
+                    q.append(curr.right)
 
-        return curr.val
+        return leftmost
 
 
