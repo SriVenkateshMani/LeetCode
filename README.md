@@ -131,6 +131,7 @@ Feel free to explore the solutions!
 | [1430-find-the-k-beauty-of-a-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SriVenkateshMani/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SriVenkateshMani/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SriVenkateshMani/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
@@ -197,6 +198,7 @@ Feel free to explore the solutions!
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/SriVenkateshMani/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SriVenkateshMani/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SriVenkateshMani/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1720-crawler-log-folder](https://github.com/SriVenkateshMani/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SriVenkateshMani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
