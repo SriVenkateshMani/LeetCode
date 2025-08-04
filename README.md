@@ -88,6 +88,7 @@ Feel free to explore the solutions!
 | [1552-build-an-array-with-stack-operations](https://github.com/SriVenkateshMani/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1677-matrix-diagonal-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1720-crawler-log-folder](https://github.com/SriVenkateshMani/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2029-minimize-product-sum-of-two-arrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/SriVenkateshMani/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SriVenkateshMani/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/SriVenkateshMani/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -244,6 +245,7 @@ Feel free to explore the solutions!
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SriVenkateshMani/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SriVenkateshMani/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2029-minimize-product-sum-of-two-arrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SriVenkateshMani/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/SriVenkateshMani/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SriVenkateshMani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -282,6 +284,7 @@ Feel free to explore the solutions!
 | [1098-largest-unique-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1098-largest-unique-number) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/SriVenkateshMani/LeetCode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SriVenkateshMani/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2029-minimize-product-sum-of-two-arrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SriVenkateshMani/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SriVenkateshMani/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2756-buy-two-chocolates](https://github.com/SriVenkateshMani/LeetCode/tree/master/2756-buy-two-chocolates) |
