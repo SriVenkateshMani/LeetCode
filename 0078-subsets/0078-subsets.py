@@ -5,9 +5,9 @@ class Solution:
         curr = []
 
         def backtrack(i):
-            if i == n:
+            if i >= n:
                 res.append(curr[:])
-                return 
+                return None
 
             # Dont pick
             backtrack(i+1)
