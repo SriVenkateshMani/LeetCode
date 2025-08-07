@@ -382,6 +382,7 @@ Feel free to explore the solutions!
 | [0784-insert-into-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1745-find-nearest-right-node-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -415,6 +416,7 @@ Feel free to explore the solutions!
 | [0784-insert-into-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1745-find-nearest-right-node-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -458,6 +460,7 @@ Feel free to explore the solutions!
 | [0637-average-of-levels-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1745-find-nearest-right-node-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Stack
 |  |
