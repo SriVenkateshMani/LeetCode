@@ -8,14 +8,15 @@ class Solution:
             if i >= n:
                 res.append(curr[:])
                 return None
+            
+            else:
+                # Dont pick
+                backtrack(i+1)
 
-            # Dont pick
-            backtrack(i+1)
-
-            # Pick nums[i]
-            curr.append(nums[i])
-            backtrack(i+1)
-            curr.pop()
-        
+                # Pick nums[i]
+                curr.append(nums[i])
+                backtrack(i+1)
+                curr.pop()
+            
         backtrack(0)
         return res
