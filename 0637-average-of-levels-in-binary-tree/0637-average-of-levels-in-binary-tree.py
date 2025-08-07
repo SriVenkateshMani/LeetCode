@@ -14,7 +14,7 @@ class Solution:
         while q:
             level_sum = 0
             level_size = len(q)
-            for _ in range(len(q)):
+            for _ in range(level_size):
                 node = q.popleft()
                 level_sum += node.val
 
