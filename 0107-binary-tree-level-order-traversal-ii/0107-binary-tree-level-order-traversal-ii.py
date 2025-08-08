@@ -23,5 +23,5 @@ class Solution:
                     q.append(curr.right)
             if level:
                 res.append(level)
-        res.reverse()
+        res = res[::-1]
         return res
