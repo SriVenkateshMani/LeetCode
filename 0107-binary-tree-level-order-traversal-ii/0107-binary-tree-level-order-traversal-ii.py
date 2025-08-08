@@ -21,7 +21,7 @@ class Solution:
                     q.append(curr.left)
                 if curr.right:
                     q.append(curr.right)
-            #if level:
+            
             res.append(level)
         res = res[::-1]
         return res
