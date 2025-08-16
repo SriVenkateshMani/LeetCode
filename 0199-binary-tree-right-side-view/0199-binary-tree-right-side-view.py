@@ -13,9 +13,9 @@ class Solution:
             
         while q:
             level_size = len(q)
-            for i in range(level_size):
+            for i in range(len(q)):
                 node = q.popleft()
-                if i == level_size-1:
+                if i == level_size - 1:
                     res.append(node.val)
                 if node.left:
                     q.append(node.left)
