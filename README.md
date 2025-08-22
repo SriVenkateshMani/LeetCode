@@ -33,6 +33,7 @@ Feel free to explore the solutions!
 | [0015-3sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SriVenkateshMani/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SriVenkateshMani/LeetCode/tree/master/0049-group-anagrams) |
@@ -108,6 +109,7 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SriVenkateshMani/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
