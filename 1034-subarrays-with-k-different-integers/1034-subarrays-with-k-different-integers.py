@@ -14,7 +14,7 @@ class Solution:
                     res += j-i+1
 
                 else:
-                    while i <= j and len(hash_map) > k:
+                    while len(hash_map) > k and i <= j:
                         hash_map[nums[i]] -= 1
                         if hash_map[nums[i]] == 0:
                             del hash_map[nums[i]]
