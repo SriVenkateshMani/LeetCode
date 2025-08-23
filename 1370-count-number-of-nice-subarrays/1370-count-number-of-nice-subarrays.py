@@ -4,13 +4,14 @@ class Solution:
             res = 0
             i,j = 0,0
             n = len(nums)
+            odd_count = 0
 
             while j < n:
                 if nums[j] % 2 == 1:
-                    k -= 1
-                while k < 0:
+                    odd_count += 1
+                while odd_count > k and i <= j:
                     if nums[i] % 2 == 1:
-                        k += 1
+                        odd_count -= 1
                     i += 1
                 res += j - i + 1
                 
