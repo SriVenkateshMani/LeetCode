@@ -24,5 +24,5 @@ class Solution:
 
             j += 1
 
-        return (res-1) if zero_count == 0 else res
+        return res-1 if zero_count == 0 else res
         
