@@ -8,7 +8,7 @@ class Solution:
         while j < n:
             count_map[nums[j]] += 1 
             
-            if j-i+1 > k:
+            while j-i+1 > k:
                 count_map[nums[i]] -= 1
                 if count_map[nums[i]] == 0:
                     del count_map[nums[i]] 
