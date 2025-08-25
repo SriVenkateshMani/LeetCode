@@ -107,6 +107,7 @@ Feel free to explore the solutions!
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SriVenkateshMani/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/SriVenkateshMani/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SriVenkateshMani/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SriVenkateshMani/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3321-type-of-triangle](https://github.com/SriVenkateshMani/LeetCode/tree/master/3321-type-of-triangle) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
@@ -144,6 +145,7 @@ Feel free to explore the solutions!
 | [2003-distinct-numbers-in-each-subarray](https://github.com/SriVenkateshMani/LeetCode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SriVenkateshMani/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SriVenkateshMani/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -186,6 +188,7 @@ Feel free to explore the solutions!
 | [2003-distinct-numbers-in-each-subarray](https://github.com/SriVenkateshMani/LeetCode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SriVenkateshMani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SriVenkateshMani/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
