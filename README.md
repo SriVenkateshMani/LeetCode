@@ -72,6 +72,7 @@ Feel free to explore the solutions!
 | [0861-flipping-an-image](https://github.com/SriVenkateshMani/LeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/SriVenkateshMani/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/0898-transpose-matrix) |
+| [0917-boats-to-save-people](https://github.com/SriVenkateshMani/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SriVenkateshMani/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SriVenkateshMani/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -255,6 +256,7 @@ Feel free to explore the solutions!
 | [0861-flipping-an-image](https://github.com/SriVenkateshMani/LeetCode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/SriVenkateshMani/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/SriVenkateshMani/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -265,6 +267,7 @@ Feel free to explore the solutions!
 | [0649-dota2-senate](https://github.com/SriVenkateshMani/LeetCode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/SriVenkateshMani/LeetCode/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/SriVenkateshMani/LeetCode/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/SriVenkateshMani/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SriVenkateshMani/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SriVenkateshMani/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/SriVenkateshMani/LeetCode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
@@ -307,6 +310,7 @@ Feel free to explore the solutions!
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/SriVenkateshMani/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SriVenkateshMani/LeetCode/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/SriVenkateshMani/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SriVenkateshMani/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1098-largest-unique-number) |
