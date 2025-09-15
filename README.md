@@ -183,6 +183,7 @@ Feel free to explore the solutions!
 | [0768-partition-labels](https://github.com/SriVenkateshMani/LeetCode/tree/master/0768-partition-labels) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SriVenkateshMani/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1098-largest-unique-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1098-largest-unique-number) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/SriVenkateshMani/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SriVenkateshMani/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/SriVenkateshMani/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -216,6 +217,7 @@ Feel free to explore the solutions!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SriVenkateshMani/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/SriVenkateshMani/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/SriVenkateshMani/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SriVenkateshMani/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/SriVenkateshMani/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
