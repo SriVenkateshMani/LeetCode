@@ -70,6 +70,7 @@ Feel free to explore the solutions!
 | [0739-daily-temperatures](https://github.com/SriVenkateshMani/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/SriVenkateshMani/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/SriVenkateshMani/LeetCode/tree/master/0861-flipping-an-image) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/SriVenkateshMani/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/SriVenkateshMani/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -123,6 +124,7 @@ Feel free to explore the solutions!
 | [0209-minimum-size-subarray-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/SriVenkateshMani/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 ## Sliding Window
 |  |
