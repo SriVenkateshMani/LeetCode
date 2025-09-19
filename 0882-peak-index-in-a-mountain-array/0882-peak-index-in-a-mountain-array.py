@@ -10,4 +10,4 @@ class Solution:
             else:
                 l = mid + 1
         
-        return l
+        return r
