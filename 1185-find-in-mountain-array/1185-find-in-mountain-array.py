@@ -11,18 +11,14 @@ class Solution:
         n = mountainArr.length()
 
         # Find the peak
-        l, r = 1, n-2
-
-        while l <= r:
-            m = (l+r) // 2
-            left, mid, right = mountainArr.get(m-1), mountainArr.get(m), mountainArr.get(m+1)
-            if left < mid < right:
+        l, r = 0, n - 1
+        while l < r:   # fix: use < not <= to avoid out-of-bounds
+            m = (l + r) // 2
+            if mountainArr.get(m) < mountainArr.get(m + 1):
                 l = m + 1
-            elif left > mid > right:
-                r = m - 1
             else:
-                break
-        peak = m
+                r = m
+        peak = l
 
         # Search in the left side
         l, r = 0, peak
