@@ -12,7 +12,7 @@ class Solution:
 
         # Find the peak
         l, r = 0, n - 1
-        while l < r:   # fix: use < not <= to avoid out-of-bounds
+        while l < r: 
             m = (l + r) // 2
             if mountainArr.get(m) < mountainArr.get(m + 1):
                 l = m + 1
