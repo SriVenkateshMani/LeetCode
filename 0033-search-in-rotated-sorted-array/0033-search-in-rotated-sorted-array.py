@@ -28,20 +28,20 @@ class Solution:
 
             return -1
         
-        def search(nums, target):
-            pivot = findPivot(nums)
-
-            if pivot == -1:
-                return binary_search(nums, target, 0, len(nums)-1)
-            
-            elif nums[pivot] == target:
-                return pivot
-                
-            elif target >= nums[0]:
-                return binary_search(nums, target, 0, pivot-1)
-                
-            else:
-                return binary_search(nums, target, pivot+1, len(nums)-1)
         
-        return search(nums, target)
+        pivot = findPivot(nums)
+
+        if pivot == -1:
+            return binary_search(nums, target, 0, len(nums)-1)
+        
+        elif nums[pivot] == target:
+            return pivot
+            
+        elif target >= nums[0]:
+            return binary_search(nums, target, 0, pivot-1)
+
+        else:
+            return binary_search(nums, target, pivot+1, len(nums)-1)
+        
+        
 
