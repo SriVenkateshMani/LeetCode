@@ -39,8 +39,9 @@ class Solution:
                 
             elif target >= nums[0]:
                 return binary_search(nums, target, 0, pivot-1)
-            
-            return binary_search(nums, target, pivot+1, len(nums)-1)
+                
+            else:
+                return binary_search(nums, target, pivot+1, len(nums)-1)
         
         return search(nums, target)
 
