@@ -81,6 +81,7 @@ Feel free to explore the solutions!
 | [1098-largest-unique-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1098-largest-unique-number) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/SriVenkateshMani/LeetCode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
+| [1185-find-in-mountain-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1280-diet-plan-performance](https://github.com/SriVenkateshMani/LeetCode/tree/master/1280-diet-plan-performance) |
 | [1293-three-consecutive-odds](https://github.com/SriVenkateshMani/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1310-watering-plants](https://github.com/SriVenkateshMani/LeetCode/tree/master/1310-watering-plants) |
@@ -128,6 +129,7 @@ Feel free to explore the solutions!
 | [0792-binary-search](https://github.com/SriVenkateshMani/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
+| [1185-find-in-mountain-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1185-find-in-mountain-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -589,4 +591,8 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SriVenkateshMani/LeetCode/tree/master/0078-subsets) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
