@@ -43,6 +43,7 @@ Feel free to explore the solutions!
 | [0073-set-matrix-zeroes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SriVenkateshMani/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SriVenkateshMani/LeetCode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SriVenkateshMani/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriVenkateshMani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SriVenkateshMani/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/0136-single-number) |
@@ -507,6 +508,7 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SriVenkateshMani/LeetCode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SriVenkateshMani/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -564,6 +566,7 @@ Feel free to explore the solutions!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SriVenkateshMani/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/SriVenkateshMani/LeetCode/tree/master/0739-daily-temperatures) |
 | [1909-buildings-with-an-ocean-view](https://github.com/SriVenkateshMani/LeetCode/tree/master/1909-buildings-with-an-ocean-view) |
 ## Geometry
