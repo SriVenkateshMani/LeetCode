@@ -425,6 +425,7 @@ Feel free to explore the solutions!
 | [0783-search-in-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1745-find-nearest-right-node-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
@@ -461,6 +462,7 @@ Feel free to explore the solutions!
 | [0783-search-in-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1745-find-nearest-right-node-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
@@ -486,6 +488,7 @@ Feel free to explore the solutions!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -508,6 +511,7 @@ Feel free to explore the solutions!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1745-find-nearest-right-node-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
