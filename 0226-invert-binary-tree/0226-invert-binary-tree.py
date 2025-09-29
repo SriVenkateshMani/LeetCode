@@ -17,6 +17,5 @@ class Solution:
             root.right = left
 
             return root
-        dfs(root)
 
-        return root
+        return dfs(root)
