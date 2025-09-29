@@ -21,8 +21,6 @@ class Solution:
                 root.right = root.left
                 root.left = None
             
-            last = rightend or leftend or root
+            return rightend or leftend or root
 
-            return last
-        
         dfs(root)
