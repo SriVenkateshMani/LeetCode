@@ -421,6 +421,7 @@ Feel free to explore the solutions!
 | [0199-binary-tree-right-side-view](https://github.com/SriVenkateshMani/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SriVenkateshMani/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -463,6 +464,7 @@ Feel free to explore the solutions!
 | [0199-binary-tree-right-side-view](https://github.com/SriVenkateshMani/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SriVenkateshMani/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -494,6 +496,7 @@ Feel free to explore the solutions!
 | [0200-number-of-islands](https://github.com/SriVenkateshMani/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SriVenkateshMani/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
