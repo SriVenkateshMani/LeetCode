@@ -44,6 +44,7 @@ Feel free to explore the solutions!
 | [0075-sort-colors](https://github.com/SriVenkateshMani/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SriVenkateshMani/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SriVenkateshMani/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriVenkateshMani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SriVenkateshMani/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -176,6 +177,7 @@ Feel free to explore the solutions!
 | [0036-valid-sudoku](https://github.com/SriVenkateshMani/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SriVenkateshMani/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/SriVenkateshMani/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SriVenkateshMani/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/SriVenkateshMani/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
@@ -411,6 +413,7 @@ Feel free to explore the solutions!
 | [0102-binary-tree-level-order-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0110-balanced-binary-tree) |
@@ -458,6 +461,7 @@ Feel free to explore the solutions!
 | [0102-binary-tree-level-order-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0110-balanced-binary-tree) |
@@ -590,6 +594,7 @@ Feel free to explore the solutions!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
