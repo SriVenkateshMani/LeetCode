@@ -11,10 +11,10 @@ class Solution:
         def dfs(root):
             nonlocal count
             if not root:
-                return 0
+                return 
             
             left = dfs(root.left)
-            if left is not 0:
+            if left is not None:
                 return left
 
             count += 1
