@@ -9,7 +9,7 @@ class Solution:
                 count = 0
             else:
                 count += 1
-                max_val = max(max_val, count)
+            max_val = max(max_val, count)
             j += 1
         
         return max_val
