@@ -21,8 +21,10 @@ class Solution:
 
             if count == k:
                 return root.val
+
+            right = dfs(root.right)
             
-            return dfs(root.right)
+            return right
         
         return dfs(root)
 
