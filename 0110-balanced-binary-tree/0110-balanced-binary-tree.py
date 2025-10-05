@@ -18,7 +18,7 @@ class Solution:
 
             if abs(left-right) > 1:
                 balanced = False
-                return 0
+                return balanced
             
             return max(left, right) + 1
 
