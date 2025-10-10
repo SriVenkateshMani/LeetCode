@@ -67,6 +67,7 @@ Feel free to explore the solutions!
 | [0487-max-consecutive-ones-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0500-keyboard-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0654-maximum-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/SriVenkateshMani/LeetCode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/SriVenkateshMani/LeetCode/tree/master/0735-asteroid-collision) |
@@ -436,6 +437,7 @@ Feel free to explore the solutions!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -485,6 +487,7 @@ Feel free to explore the solutions!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -561,6 +564,7 @@ Feel free to explore the solutions!
 | [0155-min-stack](https://github.com/SriVenkateshMani/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/SriVenkateshMani/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0654-maximum-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/SriVenkateshMani/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SriVenkateshMani/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SriVenkateshMani/LeetCode/tree/master/0739-daily-temperatures) |
@@ -602,6 +606,7 @@ Feel free to explore the solutions!
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SriVenkateshMani/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -616,6 +621,7 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/SriVenkateshMani/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0654-maximum-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/SriVenkateshMani/LeetCode/tree/master/0739-daily-temperatures) |
 | [1909-buildings-with-an-ocean-view](https://github.com/SriVenkateshMani/LeetCode/tree/master/1909-buildings-with-an-ocean-view) |
 ## Geometry
