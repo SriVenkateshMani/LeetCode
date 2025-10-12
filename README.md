@@ -650,6 +650,7 @@ Feel free to explore the solutions!
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/SriVenkateshMani/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SriVenkateshMani/LeetCode/tree/master/0078-subsets) |
 ## Interactive
 |  |
