@@ -10,7 +10,9 @@ class Solution:
         dp[0] = nums[0]
         dp[1] = max(nums[0], nums[1])
 
-        for i in range(2, n):
+        i = 2
+        while i < n:
             dp[i] = max(nums[i] + dp[i-2], dp[i-1])
-        
+            i += 1
+
         return dp[-1]
