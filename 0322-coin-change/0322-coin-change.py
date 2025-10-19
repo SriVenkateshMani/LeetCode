@@ -10,5 +10,5 @@ class Solution:
             
             i += 1
 
-        return dp[-1] if dp[amount] != amount + 1 else -1
+        return dp[-1] if dp[amount] < amount + 1 else -1
  
