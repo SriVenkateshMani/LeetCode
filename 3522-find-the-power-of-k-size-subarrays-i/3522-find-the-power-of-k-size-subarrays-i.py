@@ -20,6 +20,6 @@ class Solution:
                 else:
                     res.append(-1)
             j += 1
-            
+
         return res
 
