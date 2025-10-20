@@ -124,6 +124,7 @@ Feel free to explore the solutions!
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SriVenkateshMani/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SriVenkateshMani/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3321-type-of-triangle](https://github.com/SriVenkateshMani/LeetCode/tree/master/3321-type-of-triangle) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
@@ -167,6 +168,7 @@ Feel free to explore the solutions!
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/SriVenkateshMani/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SriVenkateshMani/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SriVenkateshMani/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
