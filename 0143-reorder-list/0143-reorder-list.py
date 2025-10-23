@@ -8,26 +8,34 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        
+        # Find the middle
+
         slow = fast = head
 
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
         
+        # reverse the second half
         prev = None
         curr = slow.next
         slow.next = None
 
         while curr:
-            nxt = curr.next
+            temp = curr.next
             curr.next = prev
             prev = curr
-            curr = nxt
+            curr = temp
+        
+        # merge the 2 halves
 
-        first, second = head, prev
+        first = head
+        second = prev
+
         while second:
-            tmp1, tmp2 = first.next, second.next
+            temp1 = first.next
+            temp2 = second.next
             first.next = second
-            second.next = tmp1
-            first, second = tmp1, tmp2
+            second.next = temp1
+            first = temp1
+            second = temp2
