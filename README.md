@@ -409,6 +409,7 @@ Feel free to explore the solutions!
 | [0021-merge-two-sorted-lists](https://github.com/SriVenkateshMani/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SriVenkateshMani/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/SriVenkateshMani/LeetCode/tree/master/0141-linked-list-cycle) |
