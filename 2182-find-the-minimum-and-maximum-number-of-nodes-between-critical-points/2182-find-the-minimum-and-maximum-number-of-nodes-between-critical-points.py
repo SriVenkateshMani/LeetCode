@@ -20,9 +20,9 @@ class Solution:
                 curr_cp = pos
                 if first_cp == 0:
                     first_cp = curr_cp
-                else:
+                if prev_cp != 0:
                     min_dist = min(min_dist, curr_cp - prev_cp)
-                
+            
                 prev_cp = curr_cp
 
             prev = curr
