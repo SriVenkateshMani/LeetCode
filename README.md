@@ -471,6 +471,7 @@ Feel free to explore the solutions!
 | [0513-find-bottom-left-tree-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -523,6 +524,7 @@ Feel free to explore the solutions!
 | [0513-find-bottom-left-tree-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -560,6 +562,7 @@ Feel free to explore the solutions!
 | [0513-find-bottom-left-tree-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -703,4 +706,12 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
