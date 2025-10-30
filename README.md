@@ -486,6 +486,7 @@ Feel free to explore the solutions!
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1731-even-odd-tree) |
 | [1745-find-nearest-right-node-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -541,6 +542,7 @@ Feel free to explore the solutions!
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1731-even-odd-tree) |
 | [1745-find-nearest-right-node-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -602,6 +604,7 @@ Feel free to explore the solutions!
 | [1035-cousins-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1731-even-odd-tree) |
 | [1745-find-nearest-right-node-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Stack
