@@ -488,6 +488,7 @@ Feel free to explore the solutions!
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1731-even-odd-tree) |
 | [1745-find-nearest-right-node-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/SriVenkateshMani/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -544,6 +545,7 @@ Feel free to explore the solutions!
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1731-even-odd-tree) |
 | [1745-find-nearest-right-node-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/SriVenkateshMani/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
