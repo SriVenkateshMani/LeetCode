@@ -7,9 +7,9 @@ class Solution:
             if numbers[l] + numbers[r] == target:
                 return [l+1, r+1]
             
-            elif numbers[l] + numbers[r] <= target:
+            elif numbers[l] + numbers[r] < target:
                 l += 1
             
-            elif numbers[l] + numbers[r] >= target:
+            elif numbers[l] + numbers[r] > target:
                 r -= 1
 
