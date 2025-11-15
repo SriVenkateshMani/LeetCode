@@ -8,10 +8,10 @@ class Solution:
         while j < n:
             freq_map[s[j]] += 1
 
-            while freq_map[s[j]] == k:
+            while freq_map[s[j]] >= k:
+                res += (n-j)
                 freq_map[s[i]] -= 1
                 i += 1
-            res += i
             j += 1
 
         
