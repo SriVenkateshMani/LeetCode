@@ -11,8 +11,6 @@ class Solution:
             while freq_map[s[j]] >= k:
                 res += (n-j)
                 freq_map[s[i]] -= 1
-                if freq_map[s[i]] == 0:
-                    del freq_map[s[i]]
                 i += 1
             j += 1
 
