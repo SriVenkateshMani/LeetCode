@@ -36,6 +36,7 @@ Feel free to explore the solutions!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SriVenkateshMani/LeetCode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/SriVenkateshMani/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/SriVenkateshMani/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SriVenkateshMani/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SriVenkateshMani/LeetCode/tree/master/0057-insert-interval) |
@@ -266,6 +267,7 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SriVenkateshMani/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/SriVenkateshMani/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/SriVenkateshMani/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriVenkateshMani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/SriVenkateshMani/LeetCode/tree/master/0198-house-robber) |
@@ -287,6 +289,7 @@ Feel free to explore the solutions!
 | [0015-3sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/SriVenkateshMani/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SriVenkateshMani/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SriVenkateshMani/LeetCode/tree/master/0125-valid-palindrome) |
@@ -629,6 +632,7 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SriVenkateshMani/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SriVenkateshMani/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SriVenkateshMani/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -698,6 +702,7 @@ Feel free to explore the solutions!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SriVenkateshMani/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SriVenkateshMani/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0654-maximum-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/SriVenkateshMani/LeetCode/tree/master/0739-daily-temperatures) |
