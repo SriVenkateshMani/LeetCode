@@ -11,11 +11,9 @@ class Solution:
                     l = mid + 1
                 elif nums[mid] > target:
                     r = mid - 1
-                elif nums[mid] == target:
-                    while mid > 0 and nums[mid - 1] == target:
-                        mid -= 1
+                else:
                     res[0] = mid
-                    break
+                    r = mid - 1
         
         def last(nums, target):
             nonlocal res
@@ -26,11 +24,9 @@ class Solution:
                     l = mid + 1
                 elif nums[mid] > target:
                     r = mid - 1
-                elif nums[mid] == target:
-                    while mid < len(nums) - 1 and nums[mid + 1] == target:
-                        mid += 1
+                else:
                     res[1] = mid
-                    break
+                    l = mid + 1
         
         first(nums, target)
         last(nums, target)
