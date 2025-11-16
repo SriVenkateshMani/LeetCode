@@ -13,7 +13,23 @@ class Solution:
             
             return False
         
-        for arr in matrix:
-            if binary_search(0, len(arr)-1, arr):
-                return True
-        return False
+        left, right = 0, len(matrix)-1
+        row = -1
+
+        while left <= right:
+            mp = (left + right) // 2
+
+            if matrix[mp][0] <= target <= matrix[mp][-1]:
+                row = mp
+                break
+            
+            elif target < matrix[mp][0]:
+                right = mp - 1
+            
+            else:
+                left = mp + 1
+        
+        if row == -1:
+            return False
+        
+        return binary_search(0, len(matrix[row])-1, matrix[row])
