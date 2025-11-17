@@ -86,6 +86,7 @@ Feel free to explore the solutions!
 | [0882-peak-index-in-a-mountain-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/SriVenkateshMani/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/SriVenkateshMani/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/SriVenkateshMani/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SriVenkateshMani/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -147,6 +148,7 @@ Feel free to explore the solutions!
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SriVenkateshMani/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SriVenkateshMani/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/SriVenkateshMani/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1185-find-in-mountain-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1185-find-in-mountain-array) |
 ## Sliding Window
