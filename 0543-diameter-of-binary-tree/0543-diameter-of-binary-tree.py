@@ -12,12 +12,11 @@ class Solution:
             nonlocal max_diameter
             if not root:
                 return 0
-            
-            else:
-                left = dfs(root.left)
-                right = dfs(root.right)
-                diameter = left + right
-                max_diameter = max(max_diameter, diameter)
+        
+            left = dfs(root.left)
+            right = dfs(root.right)
+            diameter = left + right
+            max_diameter = max(max_diameter, diameter)
             
             return max(left, right) + 1
         dfs(root)
