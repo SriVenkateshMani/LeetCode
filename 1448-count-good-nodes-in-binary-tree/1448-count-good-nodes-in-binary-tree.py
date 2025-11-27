@@ -19,5 +19,5 @@ class Solution:
             dfs(root.left, maxVal)
             dfs(root.right, maxVal)
 
-        dfs(root, float("-inf"))
+        dfs(root, root.val)
         return res
