@@ -11,21 +11,17 @@ class Solution:
         def dfs(root):
             nonlocal count
             if not root:
-                return 
+                return None
             
             left = dfs(root.left)
             if left is not None:
                 return left
-
+            
             count += 1
 
             if count == k:
                 return root.val
-
-            right = dfs(root.right)
             
-            return right
+            return dfs(root.right)
         
         return dfs(root)
-
-            
