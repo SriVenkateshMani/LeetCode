@@ -7,9 +7,10 @@
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
         count = 0
-        result=0
+        res = 0
+
         def dfs(root):
-            nonlocal count,result
+            nonlocal count, res
             if not root:
                 return 0
             
@@ -18,10 +19,9 @@ class Solution:
             count += 1
 
             if count == k:
-                result= root.val
+                res = root.val
                 
-            
             dfs(root.right)
         
         dfs(root)
-        return result
+        return res
