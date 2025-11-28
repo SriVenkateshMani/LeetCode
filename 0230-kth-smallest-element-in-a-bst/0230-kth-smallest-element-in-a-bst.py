@@ -12,7 +12,7 @@ class Solution:
         def dfs(root):
             nonlocal count, res
             if not root:
-                return 0
+                return 
             
             dfs(root.left)
             
