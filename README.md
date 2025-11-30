@@ -618,6 +618,7 @@ Feel free to explore the solutions!
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -649,6 +650,7 @@ Feel free to explore the solutions!
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1731-even-odd-tree) |
 | [1745-find-nearest-right-node-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Stack
@@ -742,6 +744,7 @@ Feel free to explore the solutions!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SriVenkateshMani/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/SriVenkateshMani/LeetCode/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Quickselect
 |  |
@@ -755,6 +758,7 @@ Feel free to explore the solutions!
 ## Graph
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
