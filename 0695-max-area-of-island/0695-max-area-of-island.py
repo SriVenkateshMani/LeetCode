@@ -13,7 +13,7 @@ class Solution:
                 dfs(i+1,j)
                 dfs(i,j+1)
                 dfs(i,j-1)  
-                
+
             return count
 
         max_islands = 0
@@ -21,7 +21,6 @@ class Solution:
             for j in range(m):
                 if grid[i][j] == 1:
                     count = 0
-                    dfs(i,j)
-                    max_islands = max(max_islands, count)
+                    max_islands = max(max_islands, dfs(i,j))
                     
         return max_islands
