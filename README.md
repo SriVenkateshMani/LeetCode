@@ -522,6 +522,7 @@ Feel free to explore the solutions!
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1731-even-odd-tree) |
 | [1745-find-nearest-right-node-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SriVenkateshMani/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/SriVenkateshMani/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -583,6 +584,7 @@ Feel free to explore the solutions!
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1731-even-odd-tree) |
 | [1745-find-nearest-right-node-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SriVenkateshMani/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/SriVenkateshMani/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -625,6 +627,7 @@ Feel free to explore the solutions!
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SriVenkateshMani/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SriVenkateshMani/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
