@@ -9,7 +9,7 @@ class Solution:
                 n -= 1
             else:
                 x *= x
-                n //= 2
+                n /= 2
 
         if temp < 0:
             return 1 / res
