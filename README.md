@@ -509,6 +509,7 @@ Feel free to explore the solutions!
 | [0508-most-frequent-subtree-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0623-add-one-row-to-tree) |
@@ -537,6 +538,7 @@ Feel free to explore the solutions!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SriVenkateshMani/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -571,6 +573,7 @@ Feel free to explore the solutions!
 | [0508-most-frequent-subtree-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0623-add-one-row-to-tree) |
@@ -618,6 +621,7 @@ Feel free to explore the solutions!
 | [0508-most-frequent-subtree-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0623-add-one-row-to-tree) |
