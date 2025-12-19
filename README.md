@@ -527,6 +527,7 @@ Feel free to explore the solutions!
 | [0783-search-in-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/SriVenkateshMani/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -599,6 +600,7 @@ Feel free to explore the solutions!
 | [0783-search-in-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/SriVenkateshMani/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -650,6 +652,7 @@ Feel free to explore the solutions!
 | [0637-average-of-levels-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/SriVenkateshMani/LeetCode/tree/master/0695-max-area-of-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/SriVenkateshMani/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
