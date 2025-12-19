@@ -16,8 +16,8 @@ class Solution:
 
             total += root.val
             root.val = total
-
-            dfs(root.left)
+            if root.left:
+                dfs(root.left)
         
         dfs(root)
         return root
