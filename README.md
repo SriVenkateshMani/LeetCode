@@ -529,6 +529,7 @@ Feel free to explore the solutions!
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SriVenkateshMani/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -553,6 +554,7 @@ Feel free to explore the solutions!
 | [0538-convert-bst-to-greater-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -598,6 +600,7 @@ Feel free to explore the solutions!
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SriVenkateshMani/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -646,6 +649,7 @@ Feel free to explore the solutions!
 | [0695-max-area-of-island](https://github.com/SriVenkateshMani/LeetCode/tree/master/0695-max-area-of-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SriVenkateshMani/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
