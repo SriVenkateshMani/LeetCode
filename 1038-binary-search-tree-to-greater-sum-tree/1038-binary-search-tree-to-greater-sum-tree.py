@@ -10,14 +10,14 @@ class Solution:
         def dfs(root):
             nonlocal total
             if not root:
-                return 
+                return 0
             
             dfs(root.right)
 
             total += root.val
             root.val = total
-            if root.left:
-                dfs(root.left)
+
+            dfs(root.left)
         
         dfs(root)
         return root
