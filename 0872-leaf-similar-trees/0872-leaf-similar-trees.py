@@ -9,10 +9,13 @@ class Solution:
         def dfs(root, arr):
             if not root:
                 return
-            if not root.left and not root.right:
-                arr.append(root.val)
+                
             dfs(root.left, arr)
             dfs(root.right, arr)
+
+            if not root.left and not root.right:
+                arr.append(root.val)
+            
             return arr
         
         return dfs(root1, []) == dfs(root2, [])
