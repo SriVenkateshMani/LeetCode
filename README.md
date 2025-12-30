@@ -91,6 +91,7 @@ Feel free to explore the solutions!
 | [0907-koko-eating-bananas](https://github.com/SriVenkateshMani/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/SriVenkateshMani/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SriVenkateshMani/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0999-available-captures-for-rook](https://github.com/SriVenkateshMani/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1019-squares-of-a-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SriVenkateshMani/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -375,6 +376,7 @@ Feel free to explore the solutions!
 | [0861-flipping-an-image](https://github.com/SriVenkateshMani/LeetCode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/SriVenkateshMani/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/0898-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/SriVenkateshMani/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1310-watering-plants](https://github.com/SriVenkateshMani/LeetCode/tree/master/1310-watering-plants) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SriVenkateshMani/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SriVenkateshMani/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -761,6 +763,7 @@ Feel free to explore the solutions!
 | [0840-magic-squares-in-grid](https://github.com/SriVenkateshMani/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/SriVenkateshMani/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/0898-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/SriVenkateshMani/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Bit Manipulation
