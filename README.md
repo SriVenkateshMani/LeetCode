@@ -83,6 +83,7 @@ Feel free to explore the solutions!
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SriVenkateshMani/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/SriVenkateshMani/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/SriVenkateshMani/LeetCode/tree/master/0792-binary-search) |
+| [0840-magic-squares-in-grid](https://github.com/SriVenkateshMani/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/SriVenkateshMani/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/SriVenkateshMani/LeetCode/tree/master/0890-lemonade-change) |
@@ -222,6 +223,7 @@ Feel free to explore the solutions!
 | [0567-permutation-in-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/SriVenkateshMani/LeetCode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/SriVenkateshMani/LeetCode/tree/master/0768-partition-labels) |
+| [0840-magic-squares-in-grid](https://github.com/SriVenkateshMani/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1023-time-based-key-value-store](https://github.com/SriVenkateshMani/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SriVenkateshMani/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -429,6 +431,7 @@ Feel free to explore the solutions!
 | [0066-plus-one](https://github.com/SriVenkateshMani/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SriVenkateshMani/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0189-rotate-array) |
+| [0840-magic-squares-in-grid](https://github.com/SriVenkateshMani/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1013-fibonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SriVenkateshMani/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -755,6 +758,7 @@ Feel free to explore the solutions!
 | [0074-search-a-2d-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SriVenkateshMani/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SriVenkateshMani/LeetCode/tree/master/0695-max-area-of-island) |
+| [0840-magic-squares-in-grid](https://github.com/SriVenkateshMani/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/SriVenkateshMani/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/0898-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
