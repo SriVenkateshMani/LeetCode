@@ -1,10 +1,7 @@
 class Solution:
     def repeatedNTimes(self, nums: List[int]) -> int:
-        freq = defaultdict(int)
-
-        for i in nums:
-            freq[i] += 1
+        for i in range(len(nums) - 2):
+            if nums[i] == nums[i + 1] or nums[i] == nums[i + 2]:
+                return nums[i]
         
-        for key, value in freq.items():
-            if value > 1:
-                return key
+        return nums[-1]
