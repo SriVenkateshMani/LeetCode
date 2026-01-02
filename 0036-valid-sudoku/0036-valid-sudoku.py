@@ -4,11 +4,14 @@ class Solution:
         rows = defaultdict(set)
         squares = defaultdict(set)
 
-        for r in range(len(board)):
-            for c in range(len(board[0])):
+        for r in range(9):
+            for c in range(9):
                 if board[r][c] == ".":
                     continue
-                elif (board[r][c] in rows[r] or board[r][c] in cols[c] or board[r][c] in squares[r//3, c //3]):
+                    
+                elif (board[r][c] in rows[r] or 
+                      board[r][c] in cols[c] or 
+                      board[r][c] in squares[r//3, c //3]):
                     return False
                 
                 cols[c].add(board[r][c])
