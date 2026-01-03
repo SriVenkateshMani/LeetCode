@@ -2,14 +2,13 @@ class Solution:
     def findRotation(self, mat: List[List[int]], target: List[List[int]]) -> bool:
         
         def rotate(mat):
-            rows = len(mat)
-            cols = len(mat[0])
+            n = len(mat)
 
-            for i in range(rows-1):
-                for j in range(i+1, rows):
+            for i in range(n-1):
+                for j in range(i+1, n):
                     mat[i][j], mat[j][i] = mat[j][i], mat[i][j]
             
-            for i in range(rows):
+            for i in range(n):
                 mat[i].reverse()
             
             return mat
@@ -17,6 +16,6 @@ class Solution:
         for i in range(4):
             if rotate(mat) == target:
                 return True
-                
+
         return False
             
