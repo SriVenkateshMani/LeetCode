@@ -315,6 +315,7 @@ Feel free to explore the solutions!
 | [0740-delete-and-earn](https://github.com/SriVenkateshMani/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/SriVenkateshMani/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1013-fibonacci-number) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/SriVenkateshMani/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
