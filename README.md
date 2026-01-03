@@ -116,6 +116,7 @@ Feel free to explore the solutions!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1677-matrix-diagonal-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1720-crawler-log-folder](https://github.com/SriVenkateshMani/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SriVenkateshMani/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1909-buildings-with-an-ocean-view](https://github.com/SriVenkateshMani/LeetCode/tree/master/1909-buildings-with-an-ocean-view) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/SriVenkateshMani/LeetCode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/2029-minimize-product-sum-of-two-arrays) |
@@ -771,6 +772,7 @@ Feel free to explore the solutions!
 | [0999-available-captures-for-rook](https://github.com/SriVenkateshMani/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SriVenkateshMani/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Bit Manipulation
 |  |
 | ------- |
