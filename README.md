@@ -134,6 +134,7 @@ Feel free to explore the solutions!
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/SriVenkateshMani/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/SriVenkateshMani/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+| [2965-find-missing-and-repeated-values](https://github.com/SriVenkateshMani/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SriVenkateshMani/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/SriVenkateshMani/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -249,6 +250,7 @@ Feel free to explore the solutions!
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/SriVenkateshMani/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+| [2965-find-missing-and-repeated-values](https://github.com/SriVenkateshMani/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SriVenkateshMani/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -453,6 +455,7 @@ Feel free to explore the solutions!
 | [1430-find-the-k-beauty-of-a-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SriVenkateshMani/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2965-find-missing-and-repeated-values](https://github.com/SriVenkateshMani/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SriVenkateshMani/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/SriVenkateshMani/LeetCode/tree/master/3321-type-of-triangle) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SriVenkateshMani/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -784,6 +787,7 @@ Feel free to explore the solutions!
 | [1677-matrix-diagonal-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SriVenkateshMani/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/SriVenkateshMani/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
