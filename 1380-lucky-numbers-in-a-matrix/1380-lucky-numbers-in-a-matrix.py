@@ -12,6 +12,4 @@ class Solution:
                 min_row[i] = min(min_row[i], mat[i][j])
                 max_col[j] = max(max_col[j], mat[i][j])
 
-        min_row = set(min_row)
-        max_col = set(max_col)
         return list(set(min_row) & set(max_col))
