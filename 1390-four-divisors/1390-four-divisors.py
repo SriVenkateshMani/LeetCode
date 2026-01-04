@@ -9,8 +9,10 @@ class Solution:
                 if n % i == 0:
                     divisors.append(i)
                     if i != n // i:
-                        divisors.append(n // i)
-                
+                        divisors.append(n // i)    
+                if len(divisors) > 4:
+                    break
+                    
             if len(divisors) == 4:
                 for i in divisors:
                     total += i
