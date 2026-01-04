@@ -14,4 +14,4 @@ class Solution:
 
         min_row = set(min_row)
         max_col = set(max_col)
-        return list(min_row & max_col)
+        return list(set(min_row) & set(max_col))
