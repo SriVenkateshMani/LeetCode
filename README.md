@@ -233,6 +233,7 @@ Feel free to explore the solutions!
 | [0567-permutation-in-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/SriVenkateshMani/LeetCode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/SriVenkateshMani/LeetCode/tree/master/0768-partition-labels) |
+| [0771-jewels-and-stones](https://github.com/SriVenkateshMani/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/SriVenkateshMani/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SriVenkateshMani/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -280,6 +281,7 @@ Feel free to explore the solutions!
 | [0647-palindromic-substrings](https://github.com/SriVenkateshMani/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/SriVenkateshMani/LeetCode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/SriVenkateshMani/LeetCode/tree/master/0768-partition-labels) |
+| [0771-jewels-and-stones](https://github.com/SriVenkateshMani/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/SriVenkateshMani/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SriVenkateshMani/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/SriVenkateshMani/LeetCode/tree/master/1023-time-based-key-value-store) |
