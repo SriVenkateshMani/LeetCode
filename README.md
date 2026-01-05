@@ -122,6 +122,7 @@ Feel free to explore the solutions!
 | [1720-crawler-log-folder](https://github.com/SriVenkateshMani/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SriVenkateshMani/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1909-buildings-with-an-ocean-view](https://github.com/SriVenkateshMani/LeetCode/tree/master/1909-buildings-with-an-ocean-view) |
+| [1975-maximum-matrix-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/SriVenkateshMani/LeetCode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/2029-minimize-product-sum-of-two-arrays) |
@@ -373,6 +374,7 @@ Feel free to explore the solutions!
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SriVenkateshMani/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SriVenkateshMani/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1975-maximum-matrix-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SriVenkateshMani/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/SriVenkateshMani/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -790,6 +792,7 @@ Feel free to explore the solutions!
 | [1672-richest-customer-wealth](https://github.com/SriVenkateshMani/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SriVenkateshMani/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1975-maximum-matrix-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/SriVenkateshMani/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
