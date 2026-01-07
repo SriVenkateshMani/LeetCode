@@ -25,5 +25,6 @@ class Solution:
             subtree = root.val + dfs(root.left) + dfs(root.right)
             max_sum = max(max_sum, (total - subtree) * subtree)
             return subtree
+
         dfs(root)
         return max_sum % mod
