@@ -104,6 +104,7 @@ Feel free to explore the solutions!
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/SriVenkateshMani/LeetCode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1185-find-in-mountain-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SriVenkateshMani/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1280-diet-plan-performance](https://github.com/SriVenkateshMani/LeetCode/tree/master/1280-diet-plan-performance) |
 | [1293-three-consecutive-odds](https://github.com/SriVenkateshMani/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1310-watering-plants](https://github.com/SriVenkateshMani/LeetCode/tree/master/1310-watering-plants) |
@@ -464,6 +465,7 @@ Feel free to explore the solutions!
 | [0189-rotate-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0189-rotate-array) |
 | [0840-magic-squares-in-grid](https://github.com/SriVenkateshMani/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/1013-fibonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SriVenkateshMani/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SriVenkateshMani/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -855,6 +857,7 @@ Feel free to explore the solutions!
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/SriVenkateshMani/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SriVenkateshMani/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Union Find
 |  |
