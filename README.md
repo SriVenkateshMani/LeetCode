@@ -147,6 +147,7 @@ Feel free to explore the solutions!
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SriVenkateshMani/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SriVenkateshMani/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3321-type-of-triangle](https://github.com/SriVenkateshMani/LeetCode/tree/master/3321-type-of-triangle) |
+| [3454-separate-squares-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3606-coupon-code-validator](https://github.com/SriVenkateshMani/LeetCode/tree/master/3606-coupon-code-validator) |
@@ -172,6 +173,7 @@ Feel free to explore the solutions!
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1185-find-in-mountain-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3454-separate-squares-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -903,4 +905,12 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
