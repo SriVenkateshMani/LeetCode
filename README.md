@@ -142,6 +142,7 @@ Feel free to explore the solutions!
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/SriVenkateshMani/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2965-find-missing-and-repeated-values](https://github.com/SriVenkateshMani/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SriVenkateshMani/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SriVenkateshMani/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SriVenkateshMani/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/SriVenkateshMani/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -478,6 +479,7 @@ Feel free to explore the solutions!
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SriVenkateshMani/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/SriVenkateshMani/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SriVenkateshMani/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SriVenkateshMani/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/SriVenkateshMani/LeetCode/tree/master/3321-type-of-triangle) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SriVenkateshMani/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -863,6 +865,7 @@ Feel free to explore the solutions!
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/SriVenkateshMani/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SriVenkateshMani/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SriVenkateshMani/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Union Find
 |  |
 | ------- |
