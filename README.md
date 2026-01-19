@@ -107,6 +107,7 @@ Feel free to explore the solutions!
 | [1185-find-in-mountain-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SriVenkateshMani/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1280-diet-plan-performance](https://github.com/SriVenkateshMani/LeetCode/tree/master/1280-diet-plan-performance) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SriVenkateshMani/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/SriVenkateshMani/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1310-watering-plants](https://github.com/SriVenkateshMani/LeetCode/tree/master/1310-watering-plants) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -175,6 +176,7 @@ Feel free to explore the solutions!
 | [1023-time-based-key-value-store](https://github.com/SriVenkateshMani/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1185-find-in-mountain-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SriVenkateshMani/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3454-separate-squares-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Sliding Window
@@ -215,6 +217,7 @@ Feel free to explore the solutions!
 | [0238-product-of-array-except-self](https://github.com/SriVenkateshMani/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SriVenkateshMani/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
@@ -817,6 +820,7 @@ Feel free to explore the solutions!
 | [0861-flipping-an-image](https://github.com/SriVenkateshMani/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/0898-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/SriVenkateshMani/LeetCode/tree/master/0999-available-captures-for-rook) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SriVenkateshMani/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/SriVenkateshMani/LeetCode/tree/master/1672-richest-customer-wealth) |
