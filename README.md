@@ -332,6 +332,7 @@ Feel free to explore the solutions!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SriVenkateshMani/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SriVenkateshMani/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/SriVenkateshMani/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SriVenkateshMani/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SriVenkateshMani/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriVenkateshMani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -470,6 +471,7 @@ Feel free to explore the solutions!
 | [0013-roman-to-integer](https://github.com/SriVenkateshMani/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/SriVenkateshMani/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SriVenkateshMani/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/SriVenkateshMani/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SriVenkateshMani/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SriVenkateshMani/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0189-rotate-array) |
@@ -909,6 +911,7 @@ Feel free to explore the solutions!
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SriVenkateshMani/LeetCode/tree/master/0062-unique-paths) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
