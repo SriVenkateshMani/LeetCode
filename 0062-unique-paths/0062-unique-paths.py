@@ -4,6 +4,8 @@ class Solution:
         def func(r, c, memo):
             if r == 1 or c == 1:
                 return 1
+            if r == 0 or c == 0:
+                return 0
             
             if (r, c) in memo:
                 return memo[(r, c)]
