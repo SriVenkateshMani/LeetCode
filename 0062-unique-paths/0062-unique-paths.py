@@ -1,15 +1,14 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        cache = {}
 
-        def func(r, c):
+        def func(r, c, memo):
             if r == 1 or c == 1:
                 return 1
             
-            if (r, c) in cache:
-                return cache[(r, c)]
+            if (r, c) in memo:
+                return memo[(r, c)]
 
-            cache[(r, c)] = func(r-1, c) + func(r, c-1)
-            return cache[(r, c)]
+            memo[(r, c)] = func(r-1, c, memo) + func(r, c-1, memo)
+            return memo[(r, c)]
         
-        return func(m, n)
+        return func(m, n, {})
