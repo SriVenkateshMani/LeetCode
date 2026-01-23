@@ -153,6 +153,7 @@ Feel free to explore the solutions!
 | [3321-type-of-triangle](https://github.com/SriVenkateshMani/LeetCode/tree/master/3321-type-of-triangle) |
 | [3454-separate-squares-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3606-coupon-code-validator](https://github.com/SriVenkateshMani/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -274,6 +275,7 @@ Feel free to explore the solutions!
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SriVenkateshMani/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/SriVenkateshMani/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SriVenkateshMani/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -423,6 +425,7 @@ Feel free to explore the solutions!
 | [2317-count-collisions-on-a-road](https://github.com/SriVenkateshMani/LeetCode/tree/master/2317-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/SriVenkateshMani/LeetCode/tree/master/3447-clear-digits) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
 |  |
@@ -497,6 +500,7 @@ Feel free to explore the solutions!
 | [0215-kth-largest-element-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SriVenkateshMani/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SriVenkateshMani/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -523,6 +527,7 @@ Feel free to explore the solutions!
 | [2299-merge-nodes-in-between-zeros](https://github.com/SriVenkateshMani/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -933,4 +938,12 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SriVenkateshMani/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
