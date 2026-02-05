@@ -152,6 +152,7 @@ Feel free to explore the solutions!
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SriVenkateshMani/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SriVenkateshMani/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3321-type-of-triangle](https://github.com/SriVenkateshMani/LeetCode/tree/master/3321-type-of-triangle) |
+| [3379-transformed-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3379-transformed-array) |
 | [3454-separate-squares-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -432,6 +433,7 @@ Feel free to explore the solutions!
 | [2299-merge-nodes-in-between-zeros](https://github.com/SriVenkateshMani/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2317-count-collisions-on-a-road](https://github.com/SriVenkateshMani/LeetCode/tree/master/2317-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [3379-transformed-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/SriVenkateshMani/LeetCode/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
