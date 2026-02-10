@@ -161,6 +161,7 @@ Feel free to explore the solutions!
 | [3606-coupon-code-validator](https://github.com/SriVenkateshMani/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3640-trionic-array-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SriVenkateshMani/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3719-longest-balanced-subarray-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
@@ -225,6 +226,7 @@ Feel free to explore the solutions!
 | [0930-binary-subarrays-with-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SriVenkateshMani/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [3719-longest-balanced-subarray-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -283,6 +285,7 @@ Feel free to explore the solutions!
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3606-coupon-code-validator](https://github.com/SriVenkateshMani/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3719-longest-balanced-subarray-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SriVenkateshMani/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -867,6 +870,7 @@ Feel free to explore the solutions!
 | [0215-kth-largest-element-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SriVenkateshMani/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Design
 |  |
 | ------- |
@@ -944,6 +948,7 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Line Sweep
 |  |
 | ------- |
