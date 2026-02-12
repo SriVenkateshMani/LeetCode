@@ -287,6 +287,7 @@ Feel free to explore the solutions!
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3606-coupon-code-validator](https://github.com/SriVenkateshMani/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SriVenkateshMani/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -340,6 +341,7 @@ Feel free to explore the solutions!
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3606-coupon-code-validator](https://github.com/SriVenkateshMani/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3713-longest-balanced-substring-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SriVenkateshMani/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
@@ -484,6 +486,7 @@ Feel free to explore the solutions!
 | [1510-find-lucky-integer-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SriVenkateshMani/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SriVenkateshMani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3713-longest-balanced-substring-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Math
 |  |
 | ------- |
@@ -962,6 +965,7 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SriVenkateshMani/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3713-longest-balanced-substring-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
