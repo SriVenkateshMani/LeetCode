@@ -314,6 +314,7 @@ Feel free to explore the solutions!
 | [0567-permutation-in-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SriVenkateshMani/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/SriVenkateshMani/LeetCode/tree/master/0649-dota2-senate) |
+| [0696-count-binary-substrings](https://github.com/SriVenkateshMani/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SriVenkateshMani/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/SriVenkateshMani/LeetCode/tree/master/0768-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/SriVenkateshMani/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -393,6 +394,7 @@ Feel free to explore the solutions!
 | [0455-assign-cookies](https://github.com/SriVenkateshMani/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SriVenkateshMani/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/SriVenkateshMani/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/SriVenkateshMani/LeetCode/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/SriVenkateshMani/LeetCode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/SriVenkateshMani/LeetCode/tree/master/0874-backspace-string-compare) |
