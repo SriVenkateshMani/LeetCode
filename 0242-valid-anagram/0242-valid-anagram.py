@@ -1,17 +1,18 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        freq_map = defaultdict(int)
+        s_map = defaultdict(int)
+        t_map = defaultdict(int)
 
         if len(s) != len(t):
             return False
         
         for i in s:
-            freq_map[i] += 1
-        for i in t:
-            if i not in freq_map:
-                return False
-            freq_map[i] -= 1
-            if freq_map[i] == 0:
-                del freq_map[i]
+            s_map[i] += 1
         
-        return len(freq_map) == 0
+        for i in t:
+            t_map[i] += 1
+        
+        if s_map == t_map:
+            return True
+            
+        return False
