@@ -246,6 +246,7 @@ Feel free to explore the solutions!
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/SriVenkateshMani/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SriVenkateshMani/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SriVenkateshMani/LeetCode/tree/master/0242-valid-anagram) |
 | [0246-strobogrammatic-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0299-bulls-and-cows](https://github.com/SriVenkateshMani/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -305,6 +306,7 @@ Feel free to explore the solutions!
 | [0076-minimum-window-substring](https://github.com/SriVenkateshMani/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SriVenkateshMani/LeetCode/tree/master/0125-valid-palindrome) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/SriVenkateshMani/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0242-valid-anagram](https://github.com/SriVenkateshMani/LeetCode/tree/master/0242-valid-anagram) |
 | [0246-strobogrammatic-number](https://github.com/SriVenkateshMani/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0299-bulls-and-cows](https://github.com/SriVenkateshMani/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/SriVenkateshMani/LeetCode/tree/master/0392-is-subsequence) |
@@ -462,6 +464,7 @@ Feel free to explore the solutions!
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SriVenkateshMani/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SriVenkateshMani/LeetCode/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/SriVenkateshMani/LeetCode/tree/master/0252-meeting-rooms) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/SriVenkateshMani/LeetCode/tree/master/0347-top-k-frequent-elements) |
