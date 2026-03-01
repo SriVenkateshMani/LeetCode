@@ -1002,4 +1002,8 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SriVenkateshMani/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
