@@ -143,6 +143,7 @@ Feel free to explore the solutions!
 | [2756-buy-two-chocolates](https://github.com/SriVenkateshMani/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/SriVenkateshMani/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2906-construct-product-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/SriVenkateshMani/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2965-find-missing-and-repeated-values](https://github.com/SriVenkateshMani/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SriVenkateshMani/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -231,6 +232,7 @@ Feel free to explore the solutions!
 | [0930-binary-subarrays-with-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SriVenkateshMani/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2906-construct-product-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3719-longest-balanced-subarray-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -879,6 +881,7 @@ Feel free to explore the solutions!
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SriVenkateshMani/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2906-construct-product-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/SriVenkateshMani/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SriVenkateshMani/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
