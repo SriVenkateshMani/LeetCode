@@ -169,6 +169,7 @@ Feel free to explore the solutions!
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SriVenkateshMani/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
@@ -299,6 +300,7 @@ Feel free to explore the solutions!
 | [3713-longest-balanced-substring-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SriVenkateshMani/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
