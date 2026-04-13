@@ -129,6 +129,7 @@ Feel free to explore the solutions!
 | [1720-crawler-log-folder](https://github.com/SriVenkateshMani/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SriVenkateshMani/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1909-buildings-with-an-ocean-view](https://github.com/SriVenkateshMani/LeetCode/tree/master/1909-buildings-with-an-ocean-view) |
+| [1929-concatenation-of-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/SriVenkateshMani/LeetCode/tree/master/2003-distinct-numbers-in-each-subarray) |
@@ -459,6 +460,7 @@ Feel free to explore the solutions!
 | [1310-watering-plants](https://github.com/SriVenkateshMani/LeetCode/tree/master/1310-watering-plants) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SriVenkateshMani/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SriVenkateshMani/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1929-concatenation-of-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SriVenkateshMani/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2317-count-collisions-on-a-road](https://github.com/SriVenkateshMani/LeetCode/tree/master/2317-count-collisions-on-a-road) |
