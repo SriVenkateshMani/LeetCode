@@ -109,6 +109,7 @@ Feel free to explore the solutions!
 | [1280-diet-plan-performance](https://github.com/SriVenkateshMani/LeetCode/tree/master/1280-diet-plan-performance) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SriVenkateshMani/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/SriVenkateshMani/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SriVenkateshMani/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1310-watering-plants](https://github.com/SriVenkateshMani/LeetCode/tree/master/1310-watering-plants) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SriVenkateshMani/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
