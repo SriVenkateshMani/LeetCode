@@ -142,6 +142,7 @@ Feel free to explore the solutions!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SriVenkateshMani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SriVenkateshMani/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2463-minimum-total-distance-traveled](https://github.com/SriVenkateshMani/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-robot-collisions](https://github.com/SriVenkateshMani/LeetCode/tree/master/2751-robot-collisions) |
 | [2756-buy-two-chocolates](https://github.com/SriVenkateshMani/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -352,6 +353,7 @@ Feel free to explore the solutions!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SriVenkateshMani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2317-count-collisions-on-a-road](https://github.com/SriVenkateshMani/LeetCode/tree/master/2317-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
