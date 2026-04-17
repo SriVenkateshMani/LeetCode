@@ -162,6 +162,7 @@ Feel free to explore the solutions!
 | [3321-type-of-triangle](https://github.com/SriVenkateshMani/LeetCode/tree/master/3321-type-of-triangle) |
 | [3379-transformed-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3379-transformed-array) |
 | [3454-separate-squares-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/SriVenkateshMani/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -198,6 +199,7 @@ Feel free to explore the solutions!
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SriVenkateshMani/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3454-separate-squares-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/SriVenkateshMani/LeetCode/tree/master/3488-closest-equal-element-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Feel free to explore the solutions!
 | [2965-find-missing-and-repeated-values](https://github.com/SriVenkateshMani/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SriVenkateshMani/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SriVenkateshMani/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3488-closest-equal-element-queries](https://github.com/SriVenkateshMani/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
