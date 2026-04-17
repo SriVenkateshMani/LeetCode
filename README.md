@@ -176,6 +176,7 @@ Feel free to explore the solutions!
 | [3721-longest-balanced-subarray-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SriVenkateshMani/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -309,6 +310,7 @@ Feel free to explore the solutions!
 | [3721-longest-balanced-subarray-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SriVenkateshMani/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SriVenkateshMani/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -554,6 +556,7 @@ Feel free to explore the solutions!
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SriVenkateshMani/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/SriVenkateshMani/LeetCode/tree/master/3321-type-of-triangle) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SriVenkateshMani/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SriVenkateshMani/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
 |  |
