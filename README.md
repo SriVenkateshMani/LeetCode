@@ -125,6 +125,7 @@ Feel free to explore the solutions!
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SriVenkateshMani/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SriVenkateshMani/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SriVenkateshMani/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1672-richest-customer-wealth](https://github.com/SriVenkateshMani/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1720-crawler-log-folder](https://github.com/SriVenkateshMani/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -450,6 +451,7 @@ Feel free to explore the solutions!
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SriVenkateshMani/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SriVenkateshMani/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SriVenkateshMani/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SriVenkateshMani/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SriVenkateshMani/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/2029-minimize-product-sum-of-two-arrays) |
@@ -509,6 +511,7 @@ Feel free to explore the solutions!
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/SriVenkateshMani/LeetCode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SriVenkateshMani/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SriVenkateshMani/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SriVenkateshMani/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SriVenkateshMani/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SriVenkateshMani/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
