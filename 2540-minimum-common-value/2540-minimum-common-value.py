@@ -5,7 +5,7 @@ class Solution:
         ans=-1
         while (i<n1 and j<n2):
             if nums1[i]==nums2[j]: return nums1[i]
-            if (nums1[i]<nums2[j]): 
+            if nums1[i]<nums2[j]: 
                 while i<n1 and j<n2 and nums1[i]<nums2[j]:
                     i+=1
             else: 
