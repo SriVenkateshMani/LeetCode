@@ -1,9 +1,7 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        count_map = defaultdict(int)
-        for i, j in enumerate(nums):
-            diff = target - j
-            if diff in count_map:
-                return [i, count_map[diff]]
-            else:
-                count_map[j] = i
+        n = len(nums)
+        for i in range(n):
+            for j in range(i+1, n):
+                if nums[i] + nums[j] == target:
+                    return [i,j]
