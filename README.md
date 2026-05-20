@@ -148,6 +148,7 @@ Feel free to explore the solutions!
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/SriVenkateshMani/LeetCode/tree/master/2751-robot-collisions) |
 | [2756-buy-two-chocolates](https://github.com/SriVenkateshMani/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/SriVenkateshMani/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -303,6 +304,7 @@ Feel free to explore the solutions!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SriVenkateshMani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2540-minimum-common-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/SriVenkateshMani/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2965-find-missing-and-repeated-values](https://github.com/SriVenkateshMani/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -933,6 +935,7 @@ Feel free to explore the solutions!
 | [0861-flipping-an-image](https://github.com/SriVenkateshMani/LeetCode/tree/master/0861-flipping-an-image) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SriVenkateshMani/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SriVenkateshMani/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SriVenkateshMani/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Divide and Conquer
 |  |
