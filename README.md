@@ -175,6 +175,7 @@ Feel free to explore the solutions!
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/SriVenkateshMani/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3640-trionic-array-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SriVenkateshMani/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SriVenkateshMani/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -211,6 +212,7 @@ Feel free to explore the solutions!
 | [2540-minimum-common-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/2540-minimum-common-value) |
 | [3454-separate-squares-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/SriVenkateshMani/LeetCode/tree/master/3488-closest-equal-element-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -443,6 +445,7 @@ Feel free to explore the solutions!
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SriVenkateshMani/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SriVenkateshMani/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
@@ -472,6 +475,7 @@ Feel free to explore the solutions!
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/SriVenkateshMani/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SriVenkateshMani/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Simulation
 |  |
 | ------- |
@@ -530,6 +534,7 @@ Feel free to explore the solutions!
 | [3321-type-of-triangle](https://github.com/SriVenkateshMani/LeetCode/tree/master/3321-type-of-triangle) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/SriVenkateshMani/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting Sort
 |  |
 | ------- |
