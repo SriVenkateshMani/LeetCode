@@ -412,6 +412,7 @@ Feel free to explore the solutions!
 | [3640-trionic-array-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SriVenkateshMani/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SriVenkateshMani/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -579,6 +580,7 @@ Feel free to explore the solutions!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/SriVenkateshMani/LeetCode/tree/master/3321-type-of-triangle) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SriVenkateshMani/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SriVenkateshMani/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
@@ -1045,6 +1047,7 @@ Feel free to explore the solutions!
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SriVenkateshMani/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3713-longest-balanced-substring-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
