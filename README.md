@@ -141,6 +141,7 @@ Feel free to explore the solutions!
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/SriVenkateshMani/LeetCode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/SriVenkateshMani/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SriVenkateshMani/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SriVenkateshMani/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/SriVenkateshMani/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SriVenkateshMani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SriVenkateshMani/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -306,6 +307,7 @@ Feel free to explore the solutions!
 | [1510-find-lucky-integer-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1980-find-unique-binary-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/SriVenkateshMani/LeetCode/tree/master/2003-distinct-numbers-in-each-subarray) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SriVenkateshMani/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SriVenkateshMani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2540-minimum-common-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SriVenkateshMani/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -699,6 +701,7 @@ Feel free to explore the solutions!
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1731-even-odd-tree) |
 | [1745-find-nearest-right-node-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SriVenkateshMani/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SriVenkateshMani/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/SriVenkateshMani/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -776,6 +779,7 @@ Feel free to explore the solutions!
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1731-even-odd-tree) |
 | [1745-find-nearest-right-node-in-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SriVenkateshMani/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SriVenkateshMani/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/SriVenkateshMani/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
