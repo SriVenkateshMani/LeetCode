@@ -181,6 +181,7 @@ Feel free to explore the solutions!
 | [3640-trionic-array-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SriVenkateshMani/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SriVenkateshMani/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -482,6 +483,7 @@ Feel free to explore the solutions!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SriVenkateshMani/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -597,6 +599,7 @@ Feel free to explore the solutions!
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SriVenkateshMani/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -1044,6 +1047,7 @@ Feel free to explore the solutions!
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SriVenkateshMani/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
