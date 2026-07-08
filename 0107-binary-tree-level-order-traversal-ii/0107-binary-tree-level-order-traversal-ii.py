@@ -6,21 +6,24 @@
 #         self.right = right
 class Solution:
     def levelOrderBottom(self, root: Optional[TreeNode]) -> List[List[int]]:
-        res = []
         q = deque()
         if root:
             q.append(root)
-        #BFS implementation:
+        res = []
 
         while q:
-            level = []
-            for i in range(len(q)):
-                curr = q.popleft()
-                level.append(curr.val)
-                if curr.left:
-                    q.append(curr.left)
-                if curr.right:
-                    q.append(curr.right)
-            res.append(level)
-        res.reverse()
-        return res
+            n = len(q)
+            level_list = []
+
+            for _ in range(n):
+                node = q.popleft()
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
+                
+                level_list.append(node.val)
+            
+            res.append(level_list)
+        
+        return res[::-1]
