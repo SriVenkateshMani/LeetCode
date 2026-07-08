@@ -77,6 +77,7 @@ Feel free to explore the solutions!
 | [0500-keyboard-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/SriVenkateshMani/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0621-task-scheduler](https://github.com/SriVenkateshMani/LeetCode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/SriVenkateshMani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/SriVenkateshMani/LeetCode/tree/master/0682-baseball-game) |
@@ -291,6 +292,7 @@ Feel free to explore the solutions!
 | [0500-keyboard-row](https://github.com/SriVenkateshMani/LeetCode/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/SriVenkateshMani/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0567-permutation-in-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/SriVenkateshMani/LeetCode/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/SriVenkateshMani/LeetCode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/SriVenkateshMani/LeetCode/tree/master/0768-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/SriVenkateshMani/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -462,6 +464,7 @@ Feel free to explore the solutions!
 | [0011-container-with-most-water](https://github.com/SriVenkateshMani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/SriVenkateshMani/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/SriVenkateshMani/LeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/SriVenkateshMani/LeetCode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/SriVenkateshMani/LeetCode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/SriVenkateshMani/LeetCode/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/SriVenkateshMani/LeetCode/tree/master/0890-lemonade-change) |
@@ -527,6 +530,7 @@ Feel free to explore the solutions!
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/SriVenkateshMani/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SriVenkateshMani/LeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/SriVenkateshMani/LeetCode/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/SriVenkateshMani/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/SriVenkateshMani/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SriVenkateshMani/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -552,6 +556,7 @@ Feel free to explore the solutions!
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/SriVenkateshMani/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/SriVenkateshMani/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/SriVenkateshMani/LeetCode/tree/master/0621-task-scheduler) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SriVenkateshMani/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SriVenkateshMani/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SriVenkateshMani/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -600,6 +605,7 @@ Feel free to explore the solutions!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SriVenkateshMani/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/SriVenkateshMani/LeetCode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/SriVenkateshMani/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/SriVenkateshMani/LeetCode/tree/master/1046-last-stone-weight) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SriVenkateshMani/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
