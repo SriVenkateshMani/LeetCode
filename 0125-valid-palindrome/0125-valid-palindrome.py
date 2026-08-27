@@ -5,12 +5,14 @@ class Solution:
             if i.isalnum():
                 cleaned += i.lower()
         
-        l, r = 0, len(cleaned)-1
-        while l <= r:
-            if cleaned[l] != cleaned[r]:
+        i, j = 0, len(cleaned)-1
+
+        while i < j:
+            if cleaned[i] != cleaned[j]:
                 return False
             
-            l += 1
-            r -= 1
+            i += 1
+            j -= 1
         
         return True
+        
