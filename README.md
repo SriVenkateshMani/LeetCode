@@ -379,6 +379,7 @@ Feel free to explore the solutions!
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SriVenkateshMani/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SriVenkateshMani/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1720-crawler-log-folder](https://github.com/SriVenkateshMani/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1768-merge-strings-alternately](https://github.com/SriVenkateshMani/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1980-find-unique-binary-string](https://github.com/SriVenkateshMani/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SriVenkateshMani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2317-count-collisions-on-a-road](https://github.com/SriVenkateshMani/LeetCode/tree/master/2317-count-collisions-on-a-road) |
@@ -458,6 +459,7 @@ Feel free to explore the solutions!
 | [0908-middle-of-the-linked-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/SriVenkateshMani/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/SriVenkateshMani/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SriVenkateshMani/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/SriVenkateshMani/LeetCode/tree/master/2540-minimum-common-value) |
