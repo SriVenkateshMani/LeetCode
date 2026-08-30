@@ -48,6 +48,7 @@ Feel free to explore the solutions!
 | [0078-subsets](https://github.com/SriVenkateshMani/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SriVenkateshMani/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SriVenkateshMani/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SriVenkateshMani/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SriVenkateshMani/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriVenkateshMani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -437,6 +438,7 @@ Feel free to explore the solutions!
 | [0042-trapping-rain-water](https://github.com/SriVenkateshMani/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SriVenkateshMani/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SriVenkateshMani/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SriVenkateshMani/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/SriVenkateshMani/LeetCode/tree/master/0143-reorder-list) |
@@ -530,6 +532,7 @@ Feel free to explore the solutions!
 | [0049-group-anagrams](https://github.com/SriVenkateshMani/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SriVenkateshMani/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SriVenkateshMani/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SriVenkateshMani/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SriVenkateshMani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SriVenkateshMani/LeetCode/tree/master/0217-contains-duplicate) |
